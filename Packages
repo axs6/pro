@@ -434,6 +434,22 @@ Description: 电话助手授权版本,通话录音,通话记录合并,T9双卡�
 Author: xybp888
 Name: 电话助手iOS16-Rootless
 
+Package: cax.zhumi.themeManager
+Version: 1.6.1
+Architecture: iphoneos-arm
+Depends: firmware (>= 13.0), mobilesubstrate
+Filename: ./debs/cax.zhumi.themeManager_1.6.1_iphoneos-arm.deb
+Size: 2840030
+MD5sum: fe89dd6c9bb51c362dab140cec409a6f
+SHA1: 390ca3574feea9ea6c4dfe7c5a103810391e655a
+SHA256: 9b3dbad3dc821ef68a8ff5c2ecb23ad34b30d0714964618d2fd472f813b40efa
+Section: Themes
+Priority: optional
+Description: 关注公众号[猪咪小屋]
+Author: zhumi
+Icon: http://mmbiz.qpic.cn/mmbiz_png/GXzfZseicQ8eiavkOXFkccWNnp3UN9YGcribuKsan6TibhRkX70Mrs5CxcO22CBl8nRhd7zem8QOiar9G64HxmjB2Yw/0?wx_fmt=png&wxfrom=401
+Name: 猪咪
+
 Package: ch.xxtou.hudapp
 Version: 1.11.6
 Architecture: iphoneos-arm64
@@ -5675,6 +5691,23 @@ Description: 分屏，不必太复杂，一切从简即可。
 Author: sunshinesong
 Name: split-view-pro
 Ts: sp-sss
+
+Package: com.sutuplus.releasefugu15
+Version: 5.8.1-3
+Architecture: iphoneos-arm64
+Maintainer: Carby <super.cat.sutuplus@gmail.com>
+Installed-Size: 1476
+Depends: mobilesubstrate
+Filename: ./debs/com.sutuplus.releasefugu15_5.8.1-3_iphoneos-arm64.deb
+Size: 446472
+MD5sum: 5df77ce80f7d2f70bae09e871f9285d9
+SHA1: e9e7db8f1918783ab7a80457949dbe7c0ae02d49
+SHA256: 7d9e3246b99c9597ed85100742c272466ea102e90ad4076c3e1c1e521c907f65
+Section: 软件增强
+Description: 本插件安装包来自苏兔源
+Author: 公众号：苏兔（bysutu） <super.cat.sutuplus@gmail.com>
+Depiction: http://apt.sutuplus.com/pkg/com.sutuplus.release
+Name: 酸果 - Rootless
 
 Package: com.swing.bilibili
 Version: 1.1.3
