@@ -1113,6 +1113,25 @@ Description: 高德地图（去广告+精简）
 Author: M哥
 Name: 高德地图（去广告+精简）
 
+Package: com.amywhile.aemulo
+Version: 2.0-dd2a2db
+Architecture: iphoneos-arm64
+Maintainer: Amy While <support@anamy.gay>
+Installed-Size: 1968
+Depends: firmware (>= 14.0)
+Filename: ./debs/Aemulo2_1432无根_秋名山.deb
+Size: 538088
+MD5sum: 4590fc7d02e36dc256d926ad05f67896
+SHA1: 124ad8ffd0ed399856fe6375ea3bb3718e80cc6f
+SHA256: 38d5b32cee94725b3e1ec6889ee8c2b4a95b049e31694c99f2aa9080737fce88
+Section: Tweaks
+Description: NFC Frickery
+Author: Amy While <support@anamy.gay>
+Header: https://elihwyma.github.io/Aemulo/assets/Depiction-Header.png
+Icon: https://elihwyma.github.io/Aemulo/assets/Icon.png
+Name: Aemulo
+Native-Depiction: https://elihwyma.github.io/Aemulo/NativeDepiction.json
+
 Package: com.anthopak.sleepizy2
 Version: 1.3.1
 Architecture: iphoneos-arm64
