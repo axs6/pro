@@ -7846,25 +7846,6 @@ Description: Conveniently switch between logged-in accounts, long press the desk
 Author: Netskao
 Name: StoreSwitchAccounts-Rootless
 
-Package: netskao.wcpureextension
-Version: 4.2-6
-Architecture: iphoneos-arm64
-Maintainer: Nets
-Installed-Size: 19660
-Depends: mobilesubstrate, firmware (>= 12.0)
-Conflicts: netskao.wechatpurification
-Replaces: netskao.wechatpurification
-Provides: netskao.wechatpurification
-Filename: ./debs/微信净化_4.2-6_无根-长期版.deb
-Size: 7085012
-MD5sum: 0b8d3eb12c0485585da6657afeb272e4
-SHA1: cb943067e5734a7b300ed8d55dec14c42d9ddf02
-SHA256: c500588113d6ea84f56f7222fc491d848e2cd2c8adec988662f65a85cd2096da
-Section: Netskao-Tweaks
-Description: 微信净化，还原聊天本质，干净的微信给你，仅支持8.0.29及以上版本，设置位于微信-设置
-Author: Netskao
-Name: 微信净化
-
 Package: netskao.wechatnotiavatar
 Version: 1.1-7
 Architecture: iphoneos-arm64
