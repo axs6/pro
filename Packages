@@ -3841,6 +3841,23 @@ Description: 为应用程序提供多个容器，账号多开神器。
 Author: opa334
 Name: Crane(rootless)
 
+Package: com.hk.rootless.janwechat
+Version: 1.1.5-1
+Architecture: iphoneos-arm64
+Maintainer: 搬运工
+Depends: mobilesubstrate
+Filename: ./debs/Jan-WeChat-Rootless.com.hk.rootless.janwechat.deb
+Size: 600464
+MD5sum: 92bbef3a694c33aeee75def3dac739f7
+SHA1: f1d01a08dde777ec4ef6bb74ccceac5754769211
+SHA256: c4fc092e2e04b4cff46e60dad6216e4d772fa2efab5a1cc88acfd5dc79adbda9
+Section: 微信插件
+Description: Jan WeChat微信助手rootless版，插件还是老版本，作者都不见了，没更新的，可能某些功能失效，只是转换支持Fugu15而已。安装前确保使用的Fugu15和ElleKit是最新版。提示：毕竟不是插件作者更新支持rootless，可能会出现闪退、卡注销、卡用户空间重启等bug，若出现风险，自行承担！
+Author: Jan
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: Jan-WeChat-Rootless
+Sponsor: 搬运工
+
 Package: com.hk.rootless.liddell
 Version: 1.4.3
 Architecture: iphoneos-arm64
