@@ -1937,6 +1937,22 @@ Description: 在“设置关于”页面中隐藏/伪装序列号等相关信息
 Author: ichitaso
 Name: HideSerialNumber(rootless)
 
+Package: com.dao.hideserialnumber
+Version: 0.0.4
+Architecture: iphoneos-arm64
+Maintainer: ichitaso
+Depends: firmware (>= 12.2), mobilesubstrate, preferenceloader, com.dao.hidenumber.cn
+Conflicts: com.ichitaso.hideserialnumber
+Filename: ./debs/HideSerialNumberrootless.0.0.4.deb
+Size: 55196
+MD5sum: 07d3745356d630bfe591ecca65d73177
+SHA1: 54156bf3ebe5c53fc27a8cf4819e9beab3d59520
+SHA256: a4b674e304782aea13fa1c837f81aa57b14e05adf4619bb565cb4318c4a33934
+Section: 嗨-工具
+Description: 在“设置关于”页面中隐藏/伪装序列号等相关信息，源内有汉化包。
+Author: ichitaso
+Name: HideSerialNumber(rootless)
+
 Package: com.dao.icleanerpro
 Version: 7.10.0
 Architecture: iphoneos-arm64
@@ -2027,10 +2043,10 @@ Installed-Size: 956
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
 Conflicts: dev.traurige.kayoko, codes.aurora.kayoko, com.skypain.kayoko, com.hk.kayoko.cn.rl, com.hk.kayoko.cn, com.daodao.kayoko, com.daodao.82.kayoko, com.hk.traurige.kayoko, com.hk.kayoko, xyz.cypwn.kayoko, zp.codes.aurora.kayoko
 Filename: ./debs/Kayoko中文版rootless.2.0.5.deb
-Size: 83016
-MD5sum: c8653d34e2b6466c3f849ec7c5cd0a5e
-SHA1: a7c3f85ea7659c3d0411bc9c9c8c96e62f86211f
-SHA256: 4ddbaba0046896a4f95bb972c674f66e708ff11cf78bc79abf6287c04ac8201f
+Size: 82820
+MD5sum: a5d866ea315b8ff010f6e7866c562cb8
+SHA1: f83662f00e001592b377a7b76d09f91449c5b63f
+SHA256: 3cf76767d6d93ef49c8a2ea5c67af577bdc66f25bca9587ac12f3083f484cdf5
 Section: 嗨-工具
 Description: 剪切板插件，直接替代听写键。基于AlexandraAurora重构的2.0源码制作，和之前1.x版稍微有点小变化，只是微改(完善中文翻译，调低了剪切板高度，iOS15+替换了"听写键/地球"图标，收藏的心图标换成星图标，优化多语言的支持)，基本保持了原滋原味。v2.0.3+的版本，不兼容之前的v2.0.2及以下版本的剪切板数据，请清空历史和收藏再使用v2.0.3+。
 Author: AlexandraAurora
@@ -2297,6 +2313,22 @@ Size: 268776
 MD5sum: 919bbf811e0cf286e1c65a97891a64d9
 SHA1: 3d96b8c61f8c8eed826480efa8227a9c43e9f7f2
 SHA256: b4276637300716cc539d3c07ca2e6e1c50482acca56998e294bcdff0fcf1c399
+Section: 嗨-工具
+Description: Safari浏览器增强插件！
+Author: 0xkuj
+Name: SafariX(rootless)
+
+Package: com.dao.safarix
+Version: 1.2.0
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0), com.dao.safarix.cn
+Conflicts: com.0xkuj.safarix, byg.iosios.net.safarix
+Filename: ./debs/SafariXrootless.1.2.0.deb
+Size: 276104
+MD5sum: 82b18fb95d483ddf74ba88d803fe73da
+SHA1: d27e1d9a968853fc8d4f8f53df038f62448f07e2
+SHA256: 99dc88be8120c6f8d05a601ac806668c793d1812da61067da1b9e16eb617b5ce
 Section: 嗨-工具
 Description: Safari浏览器增强插件！
 Author: 0xkuj
