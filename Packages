@@ -5913,6 +5913,22 @@ Icon: https://lclrc.github.io/repo/depictions/native/com.squidforce.copyvault/ic
 Name: CopyVault
 Sileodepiction: https://lclrc.github.io/repo/depictions/native/com.squidforce.copyvault/depiction.json
 
+Package: com.squidforce.copyvault
+Version: 1.2.5
+Architecture: iphoneos-arm64
+Maintainer: SquidForce
+Installed-Size: 9412
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/CopyVault_1.2.5无根.deb
+Size: 2599714
+MD5sum: 48a1b60a44638083f4d7a4f44455e7ab
+SHA1: f30ca3488f0e62f531752c4ed043b05ba56e2a06
+SHA256: 50dd0cfff51b0c1b9d753592792f9913780ab0c30cd7ad2538b44b2a7315671f
+Section: Tweaks
+Description: Your Copy Vault, Your Pasteboard
+Author: SquidForce
+Name: CopyVault
+
 Package: com.squidforce.disablepastealert16
 Version: 1.0
 Architecture: iphoneos-arm64
