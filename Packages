@@ -4686,6 +4686,23 @@ Author: lclrc(SquidForce)
 Icon: file:///var/jb/Library/PreferenceBundles/HammerItPrefs.bundle/HammerIt@3x.png
 Name: Hammer It
 
+Package: com.lclrc.squidgesturepro
+Version: 2.1.2
+Architecture: iphoneos-arm64
+Maintainer: SquidForce
+Installed-Size: 10732
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
+Conflicts: com.lclrc.squidgesture
+Filename: ./debs/SquidGesture Pro_2.1.2无根.deb
+Size: 3431440
+MD5sum: 4454635573a2da83e15fa660668e7685
+SHA1: 6dd31e6cc20ab12dc5722b36c0125190906a113f
+SHA256: 6a302109540e08e482cb1a013a394dd4603cea2ad535124e5d01cae131bacc41
+Section: Tweaks
+Description: Gestures
+Author: SquidForce
+Name: SquidGesture Pro
+
 Package: com.leisu
 Version: 1.2
 Architecture: iphoneos-arm64
