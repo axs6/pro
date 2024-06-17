@@ -9503,6 +9503,24 @@ Description: 自定义设备锁定方式。（由M哥汉化）
 Author: lemin
 Name: Lock Master
 
+Package: xyz.cypwn.genieaichatbot
+Version: 6.2.0
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: mobilesubstrate
+Filename: ./debs/xyz_cypwn_genieaichatbot_6_2_0_arm64【TG频道@jailbreakdepot】.deb
+Size: 11074
+MD5sum: 9bdf8b7321a13c1e12f3535840e011f5
+SHA1: 257b8428b4585cfbd62516abf87b09351a5871b6
+SHA256: 004493fa1124ee5dd818289c11280938e4b05304894ca6021eb214d67dcd5882
+Section: Tweaks
+Description: Genie AI Chat Pro features unlocked by Blatant
+Author: Blatant
+Depiction: https://repo.cypwn.xyz/depiction/2411
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/genieaichatbot.png
+Name: Genie AI Chatbot Pro
+Sileodepiction: https://repo.cypwn.xyz/sileo_depiction/2411
+
 Package: xyz.cypwn.joe
 Version: 1.0
 Architecture: iphoneos-arm64
