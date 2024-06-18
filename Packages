@@ -94,6 +94,26 @@ Description: MisakaHelper
 Author: Misaka
 Name: MisakaHelper
 
+Package: MisakaHelper
+Version: 2.0-0
+Architecture: iphoneos-arm64
+Essential: no
+Maintainer: Misaka
+Depends: mobilesubstrate
+Conflicts: MisakaHelper
+Replaces: MisakaHelper
+Provides: MisakaHelper
+Filename: ./debs/MisakaHelper_2.0-0_iphoneos-arm64_rootless.deb
+Size: 11817668
+MD5sum: 75e5303134bea0d6c2fe9102ec21bea0
+SHA1: f417593501cdbae69b594ddbcc085043560d1626
+SHA256: 1c7b402f371bcecb7076728bd36a633ce154d1b2530c283f748775bdf69e5e7d
+Section: Tweaks
+Priority: optional
+Description: MisakaHelper
+Author: Misaka
+Name: MisakaHelper
+
 Package: SwipeUnLock.rootless
 Version: 1.0.3
 Architecture: iphoneos-arm64
