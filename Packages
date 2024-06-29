@@ -3370,21 +3370,6 @@ Description: CopyLog 简体中文包(rootless)。
 Author: Hi客源
 Name: CopyLog 简体中文包(rootless)
 
-Package: com.hk.crane.cn.rl
-Version: 1.3.9-1
-Architecture: iphoneos-arm64
-Maintainer: 妖刀
-Depends: mobilesubstrate
-Filename: ./debs/Crane 中文修复包(rootless).deb
-Size: 11808
-MD5sum: 01d5b77fbf4ea28f7645499dc5fd6d25
-SHA1: 061d9c40e0ab8110908e48d6f59e96989be5232d
-SHA256: 89c70021819bcabfba169a8566c3279f2dba83976600c59e445f8e702b4c34c3
-Section: 嗨-汉化
-Description: Crane 中文修复包(rootless)。
-Author: 妖刀
-Name: Crane 中文修复包(rootless)
-
 Package: com.hk.ct5.cn.rl
 Version: 5.0
 Architecture: iphoneos-arm64
