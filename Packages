@@ -405,26 +405,6 @@ Icon: https://chinesebuilding.club/pic/cydia.png
 Name: CCBorder控制中心发光-Rootless
 Sponsor: 搬运工
 
-Package: byg.iosios.net.crane-rootless
-Version: 1.3.14-6
-Architecture: iphoneos-arm64
-Maintainer: 搬运工
-Installed-Size: 3120
-Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>= 1.0.5), com.opa334.libsandy, com.opa334.libundirect (>= 1.1.4) | firmware (<< 14.0)
-Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
-Filename: ./debs/Crane软件多开神器正版-Rootless.1.3.14-6.deb
-Size: 570760
-MD5sum: 72444aa0a3c1803082b70a81bd4b5995
-SHA1: d194e535f4765804e8be37755cf2abf09dcbb360
-SHA256: f1add3f3d739c6cf9763c652defbfe6d4de65e421af1a041e5f973e6102122b9
-Section: 软件破解
-Description: Crane allows you to create multiple containers per application! Multiple containers for your applications! 本插件为正版授权，下载即可使用！功能：为应用程序提供多个容器，软件及账号多开神器。已修复，并且支持消息推送，一切正常！如果有问题不能使用，并且经济条件好的，可以购买正版支持作者！有问题进群反馈，搬运工源全网首发！
-Tag: Cydia
-Author: opa334
-Icon: https://chinesebuilding.club/pic/cydia.png
-Name: Crane软件多开神器正版-Rootless
-Sponsor: 搬运工
-
 Package: byg.iosios.net.hideserialnumber
 Version: 0.0.3
 Architecture: iphoneos-arm64
@@ -3956,22 +3936,6 @@ Author: David Goldman
 Name: ColorBadges(rootless)
 Sponsor: Hi客源
 
-Package: com.hk.rootless.crane
-Version: 1.3.14-6
-Architecture: iphoneos-arm64
-Maintainer: opa334
-Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>= 1.0.5), com.opa334.libsandy, com.hk.crane.cn.rl, com.opa334.libundirect (>= 1.1.4) | firmware (<< 14.0)
-Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices, com.opa334.crane
-Filename: ./debs/Crane(rootless).deb
-Size: 571396
-MD5sum: eaaf11a64cd26c96da16c08ed42254b0
-SHA1: dbe7320637137c8457237ee2d99a129e005da059
-SHA256: 1212789daebac0db7e281d549629607b4cdea59588f960b3ded13545bbf36a91
-Section: 嗨-系统
-Description: 为应用程序提供多个容器，账号多开神器。
-Author: opa334
-Name: Crane(rootless)
-
 Package: com.hk.rootless.janwechat
 Version: 1.1.5-1
 Architecture: iphoneos-arm64
@@ -6068,6 +6032,22 @@ Size: 184704
 MD5sum: 64ebd8a69294c4884539006565488a1e
 SHA1: 2b1d6b38f6cf8470f3b404ce488e770a35bc3c25
 SHA256: 06b690d4f5eda786896b68ecadc9d8fd0cfeb245c2918a9083d3f8c09b7024c8
+Section: Tweaks
+Description: 灵动消息，就是这么简单。仅仅支持iOS16+。only support above ios16.0
+Author: sunshinesong
+Name: dynamic-notifier
+
+Package: com.sunshinesong.dynamic-notifier
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 812
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.sunshinesong.dynamic-notifier_1.0.3_iphoneos-arm64.deb
+Size: 209280
+MD5sum: ca13a77dce296e01f564c301b72114c9
+SHA1: f30d3bfc25e15dfaf8aadd6cd03c945a4b01bb2e
+SHA256: 3856e6f6bb9f3566647e0149ec4f818533b660099093a4927e35023b6e9af779
 Section: Tweaks
 Description: 灵动消息，就是这么简单。仅仅支持iOS16+。only support above ios16.0
 Author: sunshinesong
