@@ -1052,6 +1052,22 @@ Author: Mao
 Name: 淘宝优惠券-Rootless
 Sponsor: admin@25mao.com
 
+Package: com.25mao.youquan.rootless
+Version: 3.0-9
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/淘宝优惠券_3.0-9_无根.deb
+Size: 79956
+MD5sum: 3f5615a6e5d13822fda52cd6df695609
+SHA1: 161dbadba902ace74534a2ea08521882cb938371
+SHA256: 1c032d1ca8ff4bfd9f8ec8b5d75ed8cde0ea90efed5d4f34d4bd968c81361751
+Section: Tweaks
+Priority: optional
+Description: 查淘宝优惠券，查商品历史价
+Author: Mao
+Name: 淘宝优惠券
+
 Package: com.82skao.afc2d-arm64
 Version: 1.1.7-1
 Architecture: iphoneos-arm64
