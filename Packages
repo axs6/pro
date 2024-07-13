@@ -1108,7 +1108,7 @@ Version: 1.7.2
 Architecture: iphoneos-arm64
 Maintainer: HuangBai <QQ:1343309363@qq.com>
 Depends: mobilesubstrate
-Filename: ./debs/com.HBWechatHelper.ailun _1.7.2_iphoneos-arm64.deb
+Filename: ./debs/黄白助手1.7.2_iphoneos-arm64_rootless.deb
 Size: 9512088
 MD5sum: ae40fa00c95876f71f1225e07c0ccf9c
 SHA1: 4b489e342d282ea94cf2ef263f916b2bb6c7deaf
@@ -1123,7 +1123,7 @@ Version: 1.7.2
 Architecture: iphoneos-arm64
 Maintainer: HuangBai <QQ:1343309363@qq.com>
 Depends: mobilesubstrate
-Filename: ./debs/黄白助手1.7.2_iphoneos-arm64_rootless.deb
+Filename: ./debs/com.HBWechatHelper.ailun _1.7.2_iphoneos-arm64.deb
 Size: 9512088
 MD5sum: ae40fa00c95876f71f1225e07c0ccf9c
 SHA1: 4b489e342d282ea94cf2ef263f916b2bb6c7deaf
@@ -1767,13 +1767,13 @@ Package: com.dao.bigshotsnapper3plugin
 Version: 1.1
 Architecture: iphoneos-arm64
 Maintainer: Jonathan Winger-lang
-Depends: mobilesubstrate, firmware(>=14.0), preferenceloader
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader
 Conflicts: com.jontelang.snapper, com.jontelang.bigshotsnapper3plugin
-Filename: ./debs/BigShot 长截图(rootless).deb
-Size: 19256
-MD5sum: b1d501cc728682627113f5ffcced8d18
-SHA1: 243d9a241649369a6dc75d95e271791c810ebd80
-SHA256: 9b783f02260492f99525d93f599b01de8dd6b26a9477454bd2ca84fc3256529b
+Filename: ./debs/BigShot长截图rootless.1.1.deb
+Size: 19220
+MD5sum: 11166dac0fb9ea11f60ed95fafac20d3
+SHA1: 584dc54d27da38e4544ce69d25d91247ec36edb1
+SHA256: b19e5d3750dcc499b0d2b627d2b746e8965794729ba1ebd7963c5053b00dc64f
 Section: 嗨-工具
 Description: 支持Snapper3调用，安装以后呼出Snapper3会有一个长截图按钮，已汉化提示。也支持通过控制中心添加BigShot模块使用(没提示)。
 Author: Jonathan Winger-lang
@@ -1783,13 +1783,13 @@ Package: com.dao.bigshotsnapper3plugin
 Version: 1.1
 Architecture: iphoneos-arm64
 Maintainer: Jonathan Winger-lang
-Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader
+Depends: mobilesubstrate, firmware(>=14.0), preferenceloader
 Conflicts: com.jontelang.snapper, com.jontelang.bigshotsnapper3plugin
-Filename: ./debs/BigShot长截图rootless.1.1.deb
-Size: 19220
-MD5sum: 11166dac0fb9ea11f60ed95fafac20d3
-SHA1: 584dc54d27da38e4544ce69d25d91247ec36edb1
-SHA256: b19e5d3750dcc499b0d2b627d2b746e8965794729ba1ebd7963c5053b00dc64f
+Filename: ./debs/BigShot 长截图(rootless).deb
+Size: 19256
+MD5sum: b1d501cc728682627113f5ffcced8d18
+SHA1: 243d9a241649369a6dc75d95e271791c810ebd80
+SHA256: 9b783f02260492f99525d93f599b01de8dd6b26a9477454bd2ca84fc3256529b
 Section: 嗨-工具
 Description: 支持Snapper3调用，安装以后呼出Snapper3会有一个长截图按钮，已汉化提示。也支持通过控制中心添加BigShot模块使用(没提示)。
 Author: Jonathan Winger-lang
@@ -2934,12 +2934,12 @@ Architecture: iphoneos-arm64
 Maintainer: Bruno Andrade <brubiluco@globo.com>
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
 Conflicts: com.brunonfl.wicellswitcher
-Filename: ./debs/wicellswitcher_1.2.deb
-Size: 23332
-MD5sum: 575ccd792fd74c0a1915d399459c7057
-SHA1: f688adeec51d57eed23d89e3a082b4dc92191860
-SHA256: d7e078e24e81918484ed8d0e520e1d1f17f0965b54ee1d734a53c693b08cf105
-Section: M哥
+Filename: ./debs/WiCellSwitcher(rootless).deb
+Size: 23376
+MD5sum: e346220b751510c064c204c49f3517bc
+SHA1: f5f9788e3b2dcc4efa06ea9971919d9ac31263c1
+SHA256: 67a14b4c6c50ebb663158f5ac2550dcc6c9db6c7b443d0dddb9e7afd79c947e0
+Section: 嗨-工具
 Description: WiFi和蜂窝数据之间智能切换，控制中心连接WiFi关闭蜂窝，连接蜂窝关闭WiFi，或者断开连接时触发。Skypain基于i_82修复支持iOS15的源码，编译支持rootless。
 Author: Bruno Andrade <brubiluco@globo.com>
 Name: WiCellSwitcher(rootless)
@@ -2950,12 +2950,12 @@ Architecture: iphoneos-arm64
 Maintainer: Bruno Andrade <brubiluco@globo.com>
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
 Conflicts: com.brunonfl.wicellswitcher
-Filename: ./debs/WiCellSwitcher(rootless).deb
-Size: 23376
-MD5sum: e346220b751510c064c204c49f3517bc
-SHA1: f5f9788e3b2dcc4efa06ea9971919d9ac31263c1
-SHA256: 67a14b4c6c50ebb663158f5ac2550dcc6c9db6c7b443d0dddb9e7afd79c947e0
-Section: 嗨-工具
+Filename: ./debs/wicellswitcher_1.2.deb
+Size: 23332
+MD5sum: 575ccd792fd74c0a1915d399459c7057
+SHA1: f688adeec51d57eed23d89e3a082b4dc92191860
+SHA256: d7e078e24e81918484ed8d0e520e1d1f17f0965b54ee1d734a53c693b08cf105
+Section: M哥
 Description: WiFi和蜂窝数据之间智能切换，控制中心连接WiFi关闭蜂窝，连接蜂窝关闭WiFi，或者断开连接时触发。Skypain基于i_82修复支持iOS15的源码，编译支持rootless。
 Author: Bruno Andrade <brubiluco@globo.com>
 Name: WiCellSwitcher(rootless)
@@ -3004,6 +3004,22 @@ Size: 240618
 MD5sum: 3504990f19885e2b1f4fb70ea3d64e14
 SHA1: f748cf922da15119ea22dc09c4e3b5a27219be88
 SHA256: 75fb56f2a161ce2931289011aa3be25abdfbba7c2a22ce5b45fca77f3dee5786
+Section: Tweaks
+Description: A tweak to get Spotify Premium for free, just like Spotilife
+Author: Eevee
+Name: EeveeSpotify
+
+Package: com.eevee.spotify
+Version: 4.4
+Architecture: iphoneos-arm64
+Maintainer: Eevee
+Installed-Size: 1520
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf
+Filename: ./debs/com_eevee_spotify_4_4_iphoneos_arm64.deb
+Size: 317928
+MD5sum: 3555d541f229abbfc574de0f80be79a3
+SHA1: 428a52de1fe0fd94fe9b20f43eeadbd1a669a333
+SHA256: 42e323fe56d2f0ace9da64a319cf9f836832104b95a201914e1d32b0250efd9b
 Section: Tweaks
 Description: A tweak to get Spotify Premium for free, just like Spotilife
 Author: Eevee
@@ -5355,23 +5371,6 @@ Name: CCSupport
 
 Package: com.opa334.choicy
 Version: 1.4.10-3
-Architecture: iphoneos-arm64
-Maintainer: opa334 <opa334@protonmail.com>
-Installed-Size: 884
-Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
-Filename: ./debs/com.opa334.choicy_1.4.10-3_iphoneos-arm64.deb
-Size: 104702
-MD5sum: f93895c1e4cd1022da50a49bf615e31b
-SHA1: 7a3d4fa057ee888543853be6aa2c88da845f353e
-SHA256: 66a503737a9e0b14d7050d6f91ce82ebc7bcc44ff5eabac28f01ca4d8663471e
-Section: Tweaks
-Description: Advanced Tweak Configuration!
-Author: opa334 <opa334@protonmail.com>
-Depiction: https://opa334.github.io/depic/Choicy/index.html
-Name: Choicy
-
-Package: com.opa334.choicy
-Version: 1.4.10-3
 Architecture: iphoneos-arm
 Maintainer: opa334 <opa334@protonmail.com>
 Installed-Size: 1092
@@ -5381,6 +5380,23 @@ Size: 163648
 MD5sum: 1815b977cc442dfdb9664b94ff54f853
 SHA1: df3fff53aebd13b3068cdff0200ba6fd701f148e
 SHA256: a157dd402a886e4fe8751da93c5c5c23beca1a01116dd2b0b8126ee92fff87bc
+Section: Tweaks
+Description: Advanced Tweak Configuration!
+Author: opa334 <opa334@protonmail.com>
+Depiction: https://opa334.github.io/depic/Choicy/index.html
+Name: Choicy
+
+Package: com.opa334.choicy
+Version: 1.4.10-3
+Architecture: iphoneos-arm64
+Maintainer: opa334 <opa334@protonmail.com>
+Installed-Size: 884
+Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
+Filename: ./debs/com.opa334.choicy_1.4.10-3_iphoneos-arm64.deb
+Size: 104702
+MD5sum: f93895c1e4cd1022da50a49bf615e31b
+SHA1: 7a3d4fa057ee888543853be6aa2c88da845f353e
+SHA256: 66a503737a9e0b14d7050d6f91ce82ebc7bcc44ff5eabac28f01ca4d8663471e
 Section: Tweaks
 Description: Advanced Tweak Configuration!
 Author: opa334 <opa334@protonmail.com>
@@ -5510,24 +5526,6 @@ Name: FastSafariPW
 
 Package: com.opa334.libsandy
 Version: 1.1.3
-Architecture: iphoneos-arm64
-Maintainer: opa334
-Installed-Size: 340
-Conflicts: ws.hbang.stopcrashingpls (<= 1.0.2)
-Filename: ./debs/com.opa334.libsandy_1.1.3_iphoneos-arm64.deb
-Size: 12266
-MD5sum: 007f4f9150b1b2f3336ff133e6c99f1d
-SHA1: 06a39a4ebec196eeb29bc2101f0ccee1203c3429
-SHA256: 5371019a18baf38603aeb674ccbf3911c0a7b164dfc4752cb3c357dbe2dec612
-Section: System
-Description: Securely extend the sandbox of system processes and user applications
-Tag: role::developer
-Author: opa334
-Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libsandyDp
-Name: libSandy
-
-Package: com.opa334.libsandy
-Version: 1.1.3
 Architecture: iphoneos-arm
 Maintainer: opa334
 Installed-Size: 436
@@ -5537,6 +5535,24 @@ Size: 24314
 MD5sum: 85373e4c1408f20da6793966ade66936
 SHA1: c98398405c3a8b6b021b73085d1ed8568127a34f
 SHA256: 6a410fa8b63482cedb0d7ed23dbe87e90d4289c096101f091803084bf808825b
+Section: System
+Description: Securely extend the sandbox of system processes and user applications
+Tag: role::developer
+Author: opa334
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libsandyDp
+Name: libSandy
+
+Package: com.opa334.libsandy
+Version: 1.1.3
+Architecture: iphoneos-arm64
+Maintainer: opa334
+Installed-Size: 340
+Conflicts: ws.hbang.stopcrashingpls (<= 1.0.2)
+Filename: ./debs/com.opa334.libsandy_1.1.3_iphoneos-arm64.deb
+Size: 12266
+MD5sum: 007f4f9150b1b2f3336ff133e6c99f1d
+SHA1: 06a39a4ebec196eeb29bc2101f0ccee1203c3429
+SHA256: 5371019a18baf38603aeb674ccbf3911c0a7b164dfc4752cb3c357dbe2dec612
 Section: System
 Description: Securely extend the sandbox of system processes and user applications
 Tag: role::developer
@@ -5562,22 +5578,6 @@ Name: libundirect
 
 Package: com.opa334.notrecording
 Version: 1.1.1
-Architecture: iphoneos-arm64
-Maintainer: opa334
-Installed-Size: 352
-Depends: mobilesubstrate, com.opa334.altlist
-Filename: ./debs/com.opa334.notrecording_1.1.1_iphoneos-arm64.deb
-Size: 15844
-MD5sum: 2eec55444a92beda10efb056e6ab7910
-SHA1: 0a9b320d1c82d5f8ac75713c69d6f77dd150b798
-SHA256: 3f4dba6865847eff845dc8157632b559c9ff180163eb119c6d0ad5a3f734b444
-Section: Tweaks
-Description: Spoof screen recording detection!
-Author: opa334
-Name: NotRecording
-
-Package: com.opa334.notrecording
-Version: 1.1.1
 Architecture: iphoneos-arm
 Maintainer: opa334
 Installed-Size: 416
@@ -5587,6 +5587,22 @@ Size: 21936
 MD5sum: a8da7da94020316280ab6fef3f7496be
 SHA1: bb9a8d80be27d61faccaa90c4820eef683fae87e
 SHA256: 147d79e2429aa6d8ca331fc2bac097ab03ac6a5dd69a3d797e315f952076c67e
+Section: Tweaks
+Description: Spoof screen recording detection!
+Author: opa334
+Name: NotRecording
+
+Package: com.opa334.notrecording
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: opa334
+Installed-Size: 352
+Depends: mobilesubstrate, com.opa334.altlist
+Filename: ./debs/com.opa334.notrecording_1.1.1_iphoneos-arm64.deb
+Size: 15844
+MD5sum: 2eec55444a92beda10efb056e6ab7910
+SHA1: 0a9b320d1c82d5f8ac75713c69d6f77dd150b798
+SHA256: 3f4dba6865847eff845dc8157632b559c9ff180163eb119c6d0ad5a3f734b444
 Section: Tweaks
 Description: Spoof screen recording detection!
 Author: opa334
@@ -5649,22 +5665,6 @@ Name: Safari Plus (Cepheiless)
 
 Package: com.opa334.timebomb
 Version: 1.1-2
-Architecture: iphoneos-arm64
-Maintainer: opa334
-Installed-Size: 136
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.opa334.timebomb_1.1-2_iphoneos-arm64.deb
-Size: 3236
-MD5sum: acdd35bf010fc93629a84c403aa49827
-SHA1: 5cf8693094f866be03b1feb00c3ce348540595d6
-SHA256: 40df8f89b6c5011bee79b0575a9523e7b615c82b955c202c7f6e1977d24efb84
-Section: Tweaks
-Description: Spinlock timeout with ease!
-Author: opa334
-Name: TimeBomb
-
-Package: com.opa334.timebomb
-Version: 1.1-2
 Architecture: iphoneos-arm
 Maintainer: opa334
 Installed-Size: 136
@@ -5674,6 +5674,22 @@ Size: 3184
 MD5sum: 403436d75a47fc6a00d8ce1cdd17844c
 SHA1: ffd17119de7528854beaef7e8654217474b38dcd
 SHA256: 773f4c2914f8e4fe6a90a3bb1c134ac2404436d307467cd9036da0188f0994e4
+Section: Tweaks
+Description: Spinlock timeout with ease!
+Author: opa334
+Name: TimeBomb
+
+Package: com.opa334.timebomb
+Version: 1.1-2
+Architecture: iphoneos-arm64
+Maintainer: opa334
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.opa334.timebomb_1.1-2_iphoneos-arm64.deb
+Size: 3236
+MD5sum: acdd35bf010fc93629a84c403aa49827
+SHA1: 5cf8693094f866be03b1feb00c3ce348540595d6
+SHA256: 40df8f89b6c5011bee79b0575a9523e7b615c82b955c202c7f6e1977d24efb84
 Section: Tweaks
 Description: Spinlock timeout with ease!
 Author: opa334
@@ -6785,11 +6801,11 @@ Architecture: iphoneos-arm64
 Maintainer: x✨
 Installed-Size: 2444
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.xx.dyhook_2.0.1_iphoneos-arm64.deb
-Size: 894972
-MD5sum: 231ff5f32618ca2254d6f50826d92371
-SHA1: dc50ff2907fb3377b56e08e04ea02f845438c18a
-SHA256: fd6d3cf3c46d22ef515cf8525e7af93084d689cbc999ef648f8ce3cf9ab55051
+Filename: ./debs/libundirect.1.1.6.deb
+Size: 7916
+MD5sum: 0b0c6b4ecc162441c1908b5f144f23f3
+SHA1: d9282ccb5c62bd68974853f2fb956e8f210a7025
+SHA256: 9c70119810d3042d74265bb94c0cadde0f8accf6e2e4b13d05c964e0d3ae44fc
 Section: Tweaks
 Description: 自用
 Author: x✨
@@ -6802,11 +6818,11 @@ Architecture: iphoneos-arm64
 Maintainer: x✨
 Installed-Size: 2444
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/libundirect.1.1.6.deb
-Size: 7916
-MD5sum: 0b0c6b4ecc162441c1908b5f144f23f3
-SHA1: d9282ccb5c62bd68974853f2fb956e8f210a7025
-SHA256: 9c70119810d3042d74265bb94c0cadde0f8accf6e2e4b13d05c964e0d3ae44fc
+Filename: ./debs/com.xx.dyhook_2.0.1_iphoneos-arm64.deb
+Size: 894972
+MD5sum: 231ff5f32618ca2254d6f50826d92371
+SHA1: dc50ff2907fb3377b56e08e04ea02f845438c18a
+SHA256: fd6d3cf3c46d22ef515cf8525e7af93084d689cbc999ef648f8ce3cf9ab55051
 Section: Tweaks
 Description: 自用
 Author: x✨
@@ -6933,11 +6949,11 @@ Architecture: iphoneos-arm64
 Maintainer: x✨
 Installed-Size: 340
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.xx.gaodehook_1.0.3_iphoneos-arm64.deb
-Size: 100948
-MD5sum: 5bd0f4cbbd6a8cdee7e4553bd38b3744
-SHA1: adba2d785bb0ddd0f66d5ae82501bf8a65666460
-SHA256: d554d7d27dfbd008ef16c7ea7723332db53ea2574fe6ee1900ca9b882aa8857b
+Filename: ./debs/高德地图优化.1.0.3.deb
+Size: 101168
+MD5sum: 64ccb83d37195ae73716cc48b0d29c4d
+SHA1: 9739384fd4557170133bf2a4d50996640a09b446
+SHA256: 5e81801f98eb591ef4f67e49cc338e0789becd1731ac7126aacfc7451f4fc391
 Section: Tweaks
 Description: 自用 功能默认开启 | 去除启动广告 首页一些无用的悬浮 移除底部消息-打车 | 移除扫一扫按钮 | 如果需要某功能 可以长按底栏1秒出菜单自行关闭 || 1.0.3更新内容：对我的页面一些板块进行移除(功能并不是默认开 自行开启)
 Author: x✨
@@ -6949,11 +6965,11 @@ Architecture: iphoneos-arm64
 Maintainer: x✨
 Installed-Size: 340
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/高德地图优化.1.0.3.deb
-Size: 101168
-MD5sum: 64ccb83d37195ae73716cc48b0d29c4d
-SHA1: 9739384fd4557170133bf2a4d50996640a09b446
-SHA256: 5e81801f98eb591ef4f67e49cc338e0789becd1731ac7126aacfc7451f4fc391
+Filename: ./debs/com.xx.gaodehook_1.0.3_iphoneos-arm64.deb
+Size: 100948
+MD5sum: 5bd0f4cbbd6a8cdee7e4553bd38b3744
+SHA1: adba2d785bb0ddd0f66d5ae82501bf8a65666460
+SHA256: d554d7d27dfbd008ef16c7ea7723332db53ea2574fe6ee1900ca9b882aa8857b
 Section: Tweaks
 Description: 自用 功能默认开启 | 去除启动广告 首页一些无用的悬浮 移除底部消息-打车 | 移除扫一扫按钮 | 如果需要某功能 可以长按底栏1秒出菜单自行关闭 || 1.0.3更新内容：对我的页面一些板块进行移除(功能并不是默认开 自行开启)
 Author: x✨
@@ -7029,11 +7045,11 @@ Architecture: iphoneos-arm64
 Maintainer: x✨
 Installed-Size: 644
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/今日头条Hook.1.0.4.deb
-Size: 179952
-MD5sum: f48f6192779af40d124374ffc9f06f71
-SHA1: 3388e72de60a6f607f40553595ea4e25285a4f08
-SHA256: 979d74dceef87922eb14ad3997c3ce745b483406d5f28f0be6fd716afda48a95
+Filename: ./debs/com.xx.jrtthook_1.0.4_iphoneos-arm64.deb
+Size: 180382
+MD5sum: 520dc72b71d1f98f27882a89d42f9f0d
+SHA1: fc2323dd81e263a32183871d66a821cf740dd7fa
+SHA256: 8064529b2820f2434f06792644ea628a19e4df9b095a1e22c1203e403bccab11
 Section: Tweaks
 Description: APP设置界面双指长按出现菜单 -- 功能：默认移除一些广告-无水印保存视频-移除杂项,支持pro版 -- 1.0.4更新内容：尝试修复一些已知问题
 Author: x✨
@@ -7045,11 +7061,11 @@ Architecture: iphoneos-arm64
 Maintainer: x✨
 Installed-Size: 644
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.xx.jrtthook_1.0.4_iphoneos-arm64.deb
-Size: 180382
-MD5sum: 520dc72b71d1f98f27882a89d42f9f0d
-SHA1: fc2323dd81e263a32183871d66a821cf740dd7fa
-SHA256: 8064529b2820f2434f06792644ea628a19e4df9b095a1e22c1203e403bccab11
+Filename: ./debs/今日头条Hook.1.0.4.deb
+Size: 179952
+MD5sum: f48f6192779af40d124374ffc9f06f71
+SHA1: 3388e72de60a6f607f40553595ea4e25285a4f08
+SHA256: 979d74dceef87922eb14ad3997c3ce745b483406d5f28f0be6fd716afda48a95
 Section: Tweaks
 Description: APP设置界面双指长按出现菜单 -- 功能：默认移除一些广告-无水印保存视频-移除杂项,支持pro版 -- 1.0.4更新内容：尝试修复一些已知问题
 Author: x✨
@@ -8646,7 +8662,7 @@ Installed-Size: 1117
 Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader
 Conflicts: com.creaturecoding.shuffle
 Replaces: com.twickd.nightwind.onesettings
-Filename: ./debs/onesettings_2.1.1_iphoneos-arm64.deb
+Filename: ./debs/onesettings_2.1.1_汉化版@M哥.deb
 Size: 220252
 MD5sum: 88cb0614b739d011ffc0c53bfdc3addc
 SHA1: ac40b8b5584c5dc37d2a506df25490bed52d73fa
@@ -8665,7 +8681,7 @@ Installed-Size: 1117
 Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader
 Conflicts: com.creaturecoding.shuffle
 Replaces: com.twickd.nightwind.onesettings
-Filename: ./debs/onesettings_2.1.1_汉化版@M哥.deb
+Filename: ./debs/onesettings_2.1.1_iphoneos-arm64.deb
 Size: 220252
 MD5sum: 88cb0614b739d011ffc0c53bfdc3addc
 SHA1: ac40b8b5584c5dc37d2a506df25490bed52d73fa
@@ -9348,11 +9364,11 @@ Version: 2.0.0-beta
 Architecture: iphoneos-arm64
 Maintainer: 预言小猫
 Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
-Filename: ./debs/tweaktool_2.0.0-beta_iphoneos-arm64.deb
-Size: 10596
-MD5sum: d2fe4d944a4888d296c6081d4ae04f4b
-SHA1: 5849a0f4d097294fd623430237cd6f78ec35b139
-SHA256: 0643a80c52d81b385055c39965af59d1781a966ad961fe18e491c317c6026d24
+Filename: ./debs/一键备份和恢复工具-Rootless_2.0.0-beta_iphoneos-arm64.deb
+Size: 10792
+MD5sum: 50c489ed9fe9f6717e396e1f459bfc33
+SHA1: 0070bc2c14335d70ddb8ef316c580e09a20682f9
+SHA256: 81bda07e76a03f7431d6445738cfb4630b69bbbabea116a4927b9d451360cad4
 Section: Tweaks
 Description: 适合xina和多巴胺越狱的插件及其配置的一键备份恢复工具。Filza进入/var/mobile/tweak_tool/目录，运行“一键备份和恢复工具.sh”文件即可。
 Author: 预言小猫
@@ -9363,11 +9379,11 @@ Version: 2.0.0-beta
 Architecture: iphoneos-arm64
 Maintainer: 预言小猫
 Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
-Filename: ./debs/一键备份和恢复工具-Rootless_2.0.0-beta_iphoneos-arm64.deb
-Size: 10792
-MD5sum: 50c489ed9fe9f6717e396e1f459bfc33
-SHA1: 0070bc2c14335d70ddb8ef316c580e09a20682f9
-SHA256: 81bda07e76a03f7431d6445738cfb4630b69bbbabea116a4927b9d451360cad4
+Filename: ./debs/tweaktool_2.0.0-beta_iphoneos-arm64.deb
+Size: 10596
+MD5sum: d2fe4d944a4888d296c6081d4ae04f4b
+SHA1: 5849a0f4d097294fd623430237cd6f78ec35b139
+SHA256: 0643a80c52d81b385055c39965af59d1781a966ad961fe18e491c317c6026d24
 Section: Tweaks
 Description: 适合xina和多巴胺越狱的插件及其配置的一键备份恢复工具。Filza进入/var/mobile/tweak_tool/目录，运行“一键备份和恢复工具.sh”文件即可。
 Author: 预言小猫
@@ -9592,12 +9608,12 @@ Architecture: iphoneos-arm64
 Maintainer: HASHBANG Productions <support@hbang.ws>
 Installed-Size: 3132
 Depends: firmware (>= 15.0)
-Filename: ./debs/CepheiTweakSupport.2.0.deb
-Size: 198888
-MD5sum: 61e7d9d00f1edaef7589ea9593c17dc7
-SHA1: 4b9b0714a34378a81519ca6a8f7db609a2eea444
-SHA256: 3c8f09a6006beff67951c9d77c13768743af7ad743aee99661ecd59a5666a479
-Section: Development
+Filename: ./debs/ws.hbang.common_2.0_iphoneos-arm64.deb
+Size: 198952
+MD5sum: ce246d31a7fccbd566f7e18f0c0e4027
+SHA1: c9c6adc35d70ce562f89e81ecc30162681a698da
+SHA256: 03757af55be10b143a8641d39f1a81717a1bea8da8f38bcbc9dfb68947f7afb0
+Section: 插件开发
 Description: Support library for tweaks
 Tag: role::developer, compatible_min::ios15.0
 Author: HASHBANG Productions <support@hbang.ws>
@@ -9612,12 +9628,12 @@ Architecture: iphoneos-arm64
 Maintainer: HASHBANG Productions <support@hbang.ws>
 Installed-Size: 3132
 Depends: firmware (>= 15.0)
-Filename: ./debs/ws.hbang.common_2.0_iphoneos-arm64.deb
-Size: 198952
-MD5sum: ce246d31a7fccbd566f7e18f0c0e4027
-SHA1: c9c6adc35d70ce562f89e81ecc30162681a698da
-SHA256: 03757af55be10b143a8641d39f1a81717a1bea8da8f38bcbc9dfb68947f7afb0
-Section: 插件开发
+Filename: ./debs/CepheiTweakSupport.2.0.deb
+Size: 198888
+MD5sum: 61e7d9d00f1edaef7589ea9593c17dc7
+SHA1: 4b9b0714a34378a81519ca6a8f7db609a2eea444
+SHA256: 3c8f09a6006beff67951c9d77c13768743af7ad743aee99661ecd59a5666a479
+Section: Development
 Description: Support library for tweaks
 Tag: role::developer, compatible_min::ios15.0
 Author: HASHBANG Productions <support@hbang.ws>
