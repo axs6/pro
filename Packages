@@ -458,24 +458,6 @@ Icon: https://chinesebuilding.club/pic/cydia.png
 Name: SafariX浏览器增强-Rootless
 Sponsor: 搬运工
 
-Package: byg.iosios.net.safarix
-Version: 1.2.0
-Architecture: iphoneos-arm64
-Maintainer: 搬运工
-Installed-Size: 744
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
-Filename: ./debs/SafariX浏览器增强-Rootless.1.2.0.deb
-Size: 275848
-MD5sum: cb86bfdb063bf5188827004d8c5c409f
-SHA1: 44a3e91691a232d9557ed399492599fa8c9ac643
-SHA256: f2721da5460b906788fff11b957412c200f74b7a6e637b831e48c616bd35a955
-Section: 系统增强
-Description: Safari Essential Features感谢搬运工源群友萝卜购买并分享此插件，非常感谢好萝卜！此插件为iPhone自带浏览器增强插件，功能非常的多，使用，强烈建议用safri的用户下载！已添加进刀刀源汉化文件，感谢妖刀，本插件非常的好用！推荐！
-Author: 0xkuj
-Icon: https://chinesebuilding.club/pic/cydia.png
-Name: SafariX浏览器增强-Rootless
-Sponsor: 搬运工
-
 Package: callassist15
 Version: 2.2.2
 Architecture: iphoneos-arm64
