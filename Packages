@@ -950,6 +950,22 @@ Tag: role::developer
 Author: Dynastic
 Name: libflora
 
+Package: com.0xkuj.safarix
+Version: 1.2.0
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Installed-Size: 744
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.0xkuj.safarix.deb
+Size: 271416
+MD5sum: 001c8b0e867f754ca8881900d1b22d0f
+SHA1: 4b16f97bcc93b5082c17622df8f325109c88cc58
+SHA256: de2335f6b67c82c335ffecf9a10ca83b56d3f6045560c65aefbfe6cc59ae8fef
+Section: Tweaks
+Description: Safari Essential Features
+Author: 0xkuj
+Name: SafariX
+
 Package: com.25mao.doutu.rootless
 Version: 3.1-5
 Architecture: iphoneos-arm64
@@ -6114,6 +6130,22 @@ Section: Tweaks
 Description: 悬浮键盘，安装即生效，无设置页面。使用方式：双指捏合键盘可实现悬浮键盘，双指拉伸可关闭悬浮键盘。
 Author: sunshinesong
 Name: floating-keyboard
+
+Package: com.sunshinesong.native-island
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 840
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.sunshinesong.native-island_1.0.0_iphoneos-arm64.deb
+Size: 226194
+MD5sum: d8bb734cb4fb62e18b9fcea82765b647
+SHA1: 81e0120dcc2336b4aa7c2226ddfa63f29b879a9e
+SHA256: 7ed4f6fa96a5498043114019690b01334f0fa147067eb63d42021381a09c4c8f
+Section: Tweaks
+Description: 原生岛通知，从简即可。仅仅支持iOS16.0+
+Author: sunshinesong
+Name: NativeIsland
 
 Package: com.sunshinesong.split-view-pro
 Version: 1.1.3
