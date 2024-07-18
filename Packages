@@ -2573,6 +2573,22 @@ Description: 设置自定义、归类插件，源内有汉化包。
 Author: SOPPPra
 Name: SettingsRevamp(rootless)
 
+Package: com.dao.showmytouches
+Version: 1.1.2
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.dvntm.showmytouches
+Filename: ./debs/showmytouches_1.1.2_iphoneos-arm64.deb
+Size: 53332
+MD5sum: f30129edef7d851a7e04ea6119af64b6
+SHA1: 6ad3c5b79599e8c95ce99fa0049f8796f2f6ce52
+SHA256: 971135f22ac264ae7528f9d047b6bae32e812be607c0ecf94d944248337bccf5
+Section: 嗨-工具
+Description: 显示屏幕触摸轨迹！
+Author: dvntm
+Name: ShowMyTouches(rootless)
+
 Package: com.dao.showtouch
 Version: 1.0.4-3
 Architecture: iphoneos-arm64
@@ -4487,6 +4503,22 @@ Author: Mo
 Name: 微信公众号去广告-Rootless
 Sponsor: Mo <cydia778899@gmail.com>
 
+Package: com.hui.instalauncher2.zh-hans
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: 灰灰
+Depends: com.jontelang.instalauncher2, firmware (>= 15.0)
+Filename: ./debs/InstaLauncher 2汉化包.deb
+Size: 2620
+MD5sum: e8c7456757b8d53a21f1d69d32bcd5df
+SHA1: 9a2dfdd108df0b6f187e84e3de17bb1f0d455b50
+SHA256: b780c9656a98d98868763a599f061f90f6e92e73cdef905da037799951ff4e32
+Section: Tweaks
+Description: 为InstaLauncher2提供简体中文
+Author: 灰灰
+Icon: http://q1.qlogo.cn/g?b=qq&nk=84666997&s=640
+Name: zh-Hans for InstaLauncher 2
+
 Package: com.ichitaso.primalfolder2
 Version: 0.1.1
 Architecture: iphoneos-arm64
@@ -4621,6 +4653,24 @@ Section: Tweaks
 Description: 京东去广告+精简
 Author: M哥
 Name: 京东（去广告+精简）
+
+Package: com.jontelang.instalauncher2
+Version: 1.11.0
+Architecture: iphoneos-arm64
+Maintainer: Jonathan Winger Lang <jontelang@gmail.com>
+Installed-Size: 1188
+Depends: mobilesubstrate, preferenceloader, firmware(>=15.0)
+Conflicts: com.jontelang.instalauncher2.beta
+Filename: ./debs/InstaLauncher 2_1.11.0无根.deb
+Size: 203906
+MD5sum: f881738665a556d86eceb0b2f1e39603
+SHA1: 2eab5ef9c913190a3f6ba1c6220619e526e8c5cc
+SHA256: 0c7c6545061871c7e58820d4e67b0dc9c91dc010f54a2101295d02b4e1503e9e
+Section: Tweaks
+Description: Launch ANY app instantly
+Author: Jonathan Winger Lang <jontelang@gmail.com>
+Icon: file:///Library/PreferenceBundles/instalauncher2preferences.bundle/icons/preferences-icon@2x.png
+Name: InstaLauncher 2
 
 Package: com.jontelang.instalauncher2
 Version: 1.11.0
@@ -6297,6 +6347,23 @@ Size: 3508284
 MD5sum: 2a94ac69a8f8d39a6ea25e11f544d7b7
 SHA1: a9b51e3f5b637faf373ae23eb021ca45708fe345
 SHA256: 88669e428db39db0e4869766daaf709723012872346bc8030b271f84e745c1aa
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: sunshinesong
+Name: split-view-pro
+Ts: sp-sss
+
+Package: com.sunshinesong.split-view-pro
+Version: 1.1.6
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 13648
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
+Filename: ./debs/com.sunshinesong.split-view-pro_1.1.6_iphoneos-arm64.deb
+Size: 5177798
+MD5sum: 0633f6b017afdbbc2513ea5b24cf19de
+SHA1: 61c37fdc9ef8cc51d962d0cb329e5d99ecd5798c
+SHA256: 9c6622889ef922038863816b9a947caf5738a520f87f8e12245816faad58e44f
 Section: Tweaks
 Description: 分屏，不必太复杂，一切从简即可。
 Author: sunshinesong
