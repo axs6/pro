@@ -18,6 +18,26 @@ Description: 进入微信设置页面开启文字转语音开关
 Author: Apibug.com
 Name: ApibugTextToVoice
 
+Package: ApibugTextToVoice
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Essential: no
+Maintainer: www.apibug.com <apibug6@gmail.com>
+Depends: mobilesubstrate
+Conflicts: ApibugTextToVoice
+Replaces: ApibugTextToVoice
+Provides: ApibugTextToVoice
+Filename: ./debs/微信文字转语音_1.0.5-无根.deb
+Size: 168896
+MD5sum: 637c5aa4698154ddf8e596a7400966a6
+SHA1: 983b13f5a2458b197fb1be12e1e705289f409258
+SHA256: 0f748e1d5384180e1135e7da216c4fb65c8cb22cb41ac7fda42ceb1db672b75b
+Section: custom
+Priority: optional
+Description: Apibug微信文字转语音插件,官网:www.apibug.com
+Author: www.apibug.com
+Name: ApibugTextToVoice
+
 Package: Flex3beta
 Version: 1:3~Beta56
 Architecture: iphoneos-arm64
@@ -816,6 +836,23 @@ Author: 来了老弟
 Icon: file:///var/jb/Library/PreferenceBundles/fyllldprefs.bundle/icons-llld/fyxf.png
 Name: FT悬浮文本增强翻译汉化-简版
 Sileodepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.qsyy/fy.json
+
+Package: cn.llld.snapshottool
+Version: 0.1
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 1560
+Depends: mobilesubstrate
+Filename: ./debs/SnapshotTool_0.1_iphoneos-arm64.deb
+Size: 1242102
+MD5sum: 6982c1d2da5f52c6fb44a1e76ad6e25e
+SHA1: 6f6cc1bda554c230dd8aa2598f67a301412052bd
+SHA256: 639e00ae4cd311aca51959c24cdbc9fb84e9264b1876b2c06d3fcd6d3b1c565b
+Section: rootless应用插件
+Description: Snapshot sharing and copying, simplified version(Usage: Touch the image with both fingers)---对于图片的共享和复制到剪切板功能，简化版(免费版)。***使用方法：双指触摸图片即可(非100%应用或场景)***
+Author: 来了老弟
+Icon: file:///var/jb/Library/PreferenceBundles/SnapshotToolprefs.bundle/icons-llld/SnapshotTool.png
+Name: SnapshotTool
 
 Package: cn.llld.tmts
 Version: 1.2
