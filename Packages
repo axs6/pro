@@ -5937,6 +5937,23 @@ Icon: https://opa334.github.io/depic/WhitePointModule/Resources/icon.png
 Name: White Point Module
 Sileodepiction: https://opa334.github.io/depic/WhitePointModule/sileo.json
 
+Package: com.p2kdev.tinge
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 432
+Depends: firmware (>= 15.0),mobilesubstrate
+Filename: ./debs/com.p2kdev.tinge_1.1_iphoneos-arm64.deb
+Size: 39996
+MD5sum: 8ca10f003a47deb1f6e337745b814907
+SHA1: 5a627b065a36bc0f908894f481bf7aeaaa5518e8
+SHA256: 9d8a218d53c9c2b87a4217ca1075009884ad3a10f2f630062d7633106d4e0206
+Section: Tweaks
+Description: Color your badges with Perfection!
+Author: P2KDev <p2kdev@gmail.com>
+Icon: file:///Library/PreferenceBundles/TingePrefs.bundle/Icon@2x.png
+Name: Tinge
+
 Package: com.pinduoduo
 Version: 1.1
 Architecture: iphoneos-arm64
