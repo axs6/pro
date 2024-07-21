@@ -6993,14 +6993,15 @@ Maintainer: 小黄🐶
 Installed-Size: 3096
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.xhg.dyhook_8.8.8_iphoneos-arm64.deb
-Size: 824904
-MD5sum: 62eb6cfd352ad6074bc3eec8189a0391
-SHA1: 9450028ad745becf565fc124b96a73791b7a93ba
-SHA256: 93387312a62f46456dbc46984f6e68d163c7cc8f9a2dc9229287e90f3ed967c0
+Size: 824980
+MD5sum: af088e83ac2ef901d43520c989147af0
+SHA1: 5e16161c856c92356aad3d6a3d599a0ce9f04084
+SHA256: 8d353829d7d34960550846259d54ee632ae7d8a83d4e9d1ae9dee6349dd4a0ad
 Section: Tweaks
 Description: 致:入内测群费23.88元
 Author: 小黄🐶
 Name: 抖音大气层-永久版
+Sileodepiction: https://flyx099.github.io/sileodepiction/com.xx.dyhook/js.json
 
 Package: com.xina.blacklist
 Version: 0.0.2-10+debug
@@ -7167,6 +7168,22 @@ Description: 自用
 Author: x✨
 Name: 抖音图层
 Sileodepiction: https://flyx099.github.io/sileodepiction/com.xx.dyhook/js.json
+
+Package: com.xhg.dyhook
+Version: 8.8.8
+Architecture: iphoneos-arm64
+Maintainer: 小黄🐶
+Installed-Size: 3096
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.xhg.dyhook_8.8.8_iphoneos-arm64.deb
+Size: 824980
+MD5sum: af088e83ac2ef901d43520c989147af0
+SHA1: 5e16161c856c92356aad3d6a3d599a0ce9f04084
+SHA256: 8d353829d7d34960550846259d54ee632ae7d8a83d4e9d1ae9dee6349dd4a0ad
+Section: Tweaks
+Description: 致:入内测群费23.88元
+Author: 小黄🐶
+Name: 抖音大气层-永久版
 
 Package: com.xx.ecnyhook
 Version: 1.0.1
@@ -10069,4 +10086,3 @@ Depiction: https://skitty.xyz/repo/depictions/xyz.skitty.sixls
 Icon: https://skitty.xyz/repo/icons/xyz.skitty.sixls.png
 Name: Six (LS)
 Sileodepiction: https://skitty.xyz/repo/depictions/xyz.skitty.sixls/sileo.json
-
