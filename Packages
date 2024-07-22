@@ -4093,6 +4093,23 @@ Author: 妖刀
 Name: CCLess++(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ccless/js.json
 
+Package: com.hk.rootless.cc
+Version: 2.0.5.5
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
+Conflicts: com.skypain.cclocation, com.skypain.ccsettrings, com.skypain.ccrespring, com.sop.cpumagicrootless, netskao.ccbadgeclear-rootless, com.mtac.uptime, netskao.alipayscan-rootless, netskao.wechatscan-rootless, com.skypain.ccvpn, netskao.ccswitchdata-rootless, netskao.ccsim-rootless, netskao.tinyccmodules-rootless, netskao.cccellularrate-rootless, netskao.quantumultxlauncher-rootless, com.p2kdev.snapper2cc, com.skypain.ccautobrightness, com.skypain.ccscreenshot, com.skypain.cclockscreen, xyz.cypwn.safeccmodules, com.zqbb.ccpay, com.zqbb.qszqb, com.netskao.ccbadgeclear, com.kingpuffdaddi.control-center.ccvpn, com.netskao.cclifttowake, com.kdt.caperfhudmodule, com.kingpuffdaddi.control-center.ccvibration
+Filename: ./debs/CCLess_2.0.5.5_iphoneos-arm64.deb
+Size: 508160
+MD5sum: 5132f7f035858ae4fbe8814441a94a99
+SHA1: 197c02b87d60a229f8827724fbe6a758c455adc1
+SHA256: 40e3f691e9e8bfa2602f13183b5f18b9418d7fe016b5647ec6862abac71f3112
+Section: Tweaks
+Description: 集合的控制中心模块：定位、注销、设置、VPN、自动亮度、截屏、锁屏、一键清角标、微信扫码、支付宝扫码、双卡切换、蜂窝切换、迷你音量-亮度、启动QX/推特/油管/Filza/Sileo/Tg等、静音、实时CPU使用率、系统运行时间、Snapper2、微信/支付宝付款码、抬起唤醒等。感谢Skypain、Netskao、SOPPPra、MTAC、P2KDev、jailbreak365 +、AnubisTweaks、真皮等各位大佬！！！
+Author: 妖刀
+Name: CCLess++(rootless)
+Sileodepiction: https://axs6.github.io/repo/sileodepiction/CCLess/js.json
+
 Package: com.hk.rootless.colorbadges
 Version: 1.5.0
 Architecture: iphoneos-arm64
@@ -6859,6 +6876,25 @@ Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.pn
 Name: DockX
 Sileodepiction: https://lclrc.github.io/repo/depictions/native/com.udevs.dockx/depiction.json
 
+Package: com.udevs.dockx
+Version: 2.6.1
+Architecture: iphoneos-arm
+Maintainer: udevs
+Installed-Size: 2068
+Depends: mobilesubstrate, preferenceloader, firmware(>=14.0)
+Conflicts: com.restiveconch.actionbar
+Filename: ./debs/com.udevs.dockx_2.6.1_iphoneos-arm.deb
+Size: 424328
+MD5sum: fd0d13b07b87463c366048df2128542d
+SHA1: b67a986fb75c8b09d8d0e1d30aa47f72f41d13f3
+SHA256: 76743761847f038f25678f05d1489d13f769e77e1fda1da63a7f7d4786ae1163
+Section: Tweaks
+Description: Pasteboard shortcuts on your keyboard dock!
+Author: udevs
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
+Name: DockX
+Sileodepiction: https://axs6.github.io/repo/sileodepiction/dockx/js.json
+
 Package: com.velocarpooling
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -6985,6 +7021,23 @@ Section: Applications
 Description: iOS Terminal
 Author: Tim Apple
 Name: Terminal
+
+Package: com.xhg.dyhook
+Version: 8.8.8
+Architecture: iphoneos-arm64
+Maintainer: 人妖嘉嘉
+Installed-Size: 5464
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/抖音大气层_8.8.8_无根.deb
+Size: 1924680
+MD5sum: 8cb3202466759d6b16122bfaad1b2b9c
+SHA1: c711be8004ebcf962ed6e49ed547bd72ecd7b62f
+SHA256: 5ee47b80dd06abb377a8307a4c0ace933538d1226fcdb7a6a89f7af995439b27
+Section: Tweaks
+Description: 成功让人妖嘉嘉取消了入群费21.88元
+Author: 人妖嘉嘉
+Name: 抖音大气层-永久版
+Sileodepiction: https://axs6.github.io/repo/sileodepiction/dyhook/js.json
 
 Package: com.xhg.dyhook
 Version: 8.8.8
