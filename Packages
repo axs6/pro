@@ -7039,22 +7039,6 @@ Author: 人妖嘉嘉
 Name: 抖音大气层-永久版
 Sileodepiction: https://axs6.github.io/repo/sileodepiction/dyhook/js.json
 
-Package: com.xhg.dyhook
-Version: 8.8.8
-Architecture: iphoneos-arm64
-Maintainer: 人妖嘉嘉
-Installed-Size: 5464
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.xhg.dyhook_8.8.8_iphoneos-arm64.deb
-Size: 1923708
-MD5sum: 7dd0311dcc120b46e10ca877edc23360
-SHA1: 857768a31c607ec1def83ce92bc156dbbba3955c
-SHA256: c07708e8d0d5908deaf888c0c78d70da28b71ab3f699560dd66f773f30f6347f
-Section: Tweaks
-Description: 成功让人妖嘉嘉取消了入群费21.88元
-Author: 人妖嘉嘉
-Name: 抖音大气层-永久版
-
 Package: com.xina.blacklist
 Version: 0.0.2-10+debug
 Architecture: iphoneos-arm64
