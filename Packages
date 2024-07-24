@@ -1123,6 +1123,22 @@ Tag: purpose::daemon, role::enduser
 Author: saurik, Cannathea <csupport@cannathea.com>
 Name: AFC2(rootless)
 
+Package: com.Axs.iostouch
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 504
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.Axs.iostouch_1.2_iphoneos-arm64.deb
+Size: 67100
+MD5sum: d290e7216a5e2125d5b8928eaeb6fe27
+SHA1: 480dca32b864a99c219e29e1ccc9ebfb2090b503
+SHA256: 5733a992489f174c5afaf00d0f2296d30035a993e35f6ed5369052a0a466150d
+Section: 录屏轨迹
+Description: 显示您的触摸交互！
+Author: Axs
+Name: 录屏轨迹
+
 Package: com.HBWechatHelper.ailun
 Version: 1.7.1
 Architecture: iphoneos-arm64
@@ -2550,11 +2566,11 @@ Maintainer: SoCuul & 妖刀
 Installed-Size: 1904
 Depends: mobilesubstrate, ws.hbang.common
 Conflicts: com.bandarhl.bhinsta, com.socuul.scinsta, com.hk.bhinsta.cn.rl, com.dao.bhinsta, com.hk.bhinsta, com.hk.bhinsta.cn
-Filename: ./debs/SCInsta中文版rootless.0.4.2.deb
-Size: 496576
-MD5sum: 9430605601713be90f8676e0fb8d449a
-SHA1: 3caff1c0105d9504ebda713747efe5c31422e89f
-SHA256: 3959dffc2f11fc3d01796cdd4d3c652ab598b9ccd6a0e2384720d1cc24f597e4
+Filename: ./debs/SCInsta 中文版(rootless).deb
+Size: 496076
+MD5sum: 89f58ae95c8b0f8f1e17a6d793384952
+SHA1: b563bbb1bbe37a9582bd374d9c6e5b9bb11b9eda
+SHA256: f0705375b239406ed60f3f070bdc3006d97955c7d7f74459e20faeca74aa66f0
 Section: 嗨-工具
 Description: Instagram功能丰富的插件，可去广告、可隐藏推荐、二次确认、下载媒体等，长按主页面左上角“Instagram图标”进入插件设置，刀刀根据开源直接编译的中文版。
 Author: SoCuul
@@ -2568,11 +2584,11 @@ Maintainer: SoCuul & 妖刀
 Installed-Size: 1904
 Depends: mobilesubstrate, ws.hbang.common
 Conflicts: com.bandarhl.bhinsta, com.socuul.scinsta, com.hk.bhinsta.cn.rl, com.dao.bhinsta, com.hk.bhinsta, com.hk.bhinsta.cn
-Filename: ./debs/SCInsta 中文版(rootless).deb
-Size: 496076
-MD5sum: 89f58ae95c8b0f8f1e17a6d793384952
-SHA1: b563bbb1bbe37a9582bd374d9c6e5b9bb11b9eda
-SHA256: f0705375b239406ed60f3f070bdc3006d97955c7d7f74459e20faeca74aa66f0
+Filename: ./debs/SCInsta中文版rootless.0.4.2.deb
+Size: 496576
+MD5sum: 9430605601713be90f8676e0fb8d449a
+SHA1: 3caff1c0105d9504ebda713747efe5c31422e89f
+SHA256: 3959dffc2f11fc3d01796cdd4d3c652ab598b9ccd6a0e2384720d1cc24f597e4
 Section: 嗨-工具
 Description: Instagram功能丰富的插件，可去广告、可隐藏推荐、二次确认、下载媒体等，长按主页面左上角“Instagram图标”进入插件设置，刀刀根据开源直接编译的中文版。
 Author: SoCuul
@@ -3003,12 +3019,12 @@ Architecture: iphoneos-arm64
 Maintainer: Bruno Andrade <brubiluco@globo.com>
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
 Conflicts: com.brunonfl.wicellswitcher
-Filename: ./debs/WiCellSwitcher(rootless).deb
-Size: 23376
-MD5sum: e346220b751510c064c204c49f3517bc
-SHA1: f5f9788e3b2dcc4efa06ea9971919d9ac31263c1
-SHA256: 67a14b4c6c50ebb663158f5ac2550dcc6c9db6c7b443d0dddb9e7afd79c947e0
-Section: 嗨-工具
+Filename: ./debs/wicellswitcher_1.2.deb
+Size: 23332
+MD5sum: 575ccd792fd74c0a1915d399459c7057
+SHA1: f688adeec51d57eed23d89e3a082b4dc92191860
+SHA256: d7e078e24e81918484ed8d0e520e1d1f17f0965b54ee1d734a53c693b08cf105
+Section: M哥
 Description: WiFi和蜂窝数据之间智能切换，控制中心连接WiFi关闭蜂窝，连接蜂窝关闭WiFi，或者断开连接时触发。Skypain基于i_82修复支持iOS15的源码，编译支持rootless。
 Author: Bruno Andrade <brubiluco@globo.com>
 Name: WiCellSwitcher(rootless)
@@ -3019,12 +3035,12 @@ Architecture: iphoneos-arm64
 Maintainer: Bruno Andrade <brubiluco@globo.com>
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
 Conflicts: com.brunonfl.wicellswitcher
-Filename: ./debs/wicellswitcher_1.2.deb
-Size: 23332
-MD5sum: 575ccd792fd74c0a1915d399459c7057
-SHA1: f688adeec51d57eed23d89e3a082b4dc92191860
-SHA256: d7e078e24e81918484ed8d0e520e1d1f17f0965b54ee1d734a53c693b08cf105
-Section: M哥
+Filename: ./debs/WiCellSwitcher(rootless).deb
+Size: 23376
+MD5sum: e346220b751510c064c204c49f3517bc
+SHA1: f5f9788e3b2dcc4efa06ea9971919d9ac31263c1
+SHA256: 67a14b4c6c50ebb663158f5ac2550dcc6c9db6c7b443d0dddb9e7afd79c947e0
+Section: 嗨-工具
 Description: WiFi和蜂窝数据之间智能切换，控制中心连接WiFi关闭蜂窝，连接蜂窝关闭WiFi，或者断开连接时触发。Skypain基于i_82修复支持iOS15的源码，编译支持rootless。
 Author: Bruno Andrade <brubiluco@globo.com>
 Name: WiCellSwitcher(rootless)
@@ -4729,13 +4745,13 @@ Version: 1.11.0
 Architecture: iphoneos-arm64
 Maintainer: Jonathan Winger Lang <jontelang@gmail.com>
 Installed-Size: 1188
-Depends: mobilesubstrate, preferenceloader, firmware(>=15.0)
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Conflicts: com.jontelang.instalauncher2.beta
-Filename: ./debs/InstaLauncher 2_1.11.0无根.deb
-Size: 203906
-MD5sum: f881738665a556d86eceb0b2f1e39603
-SHA1: 2eab5ef9c913190a3f6ba1c6220619e526e8c5cc
-SHA256: 0c7c6545061871c7e58820d4e67b0dc9c91dc010f54a2101295d02b4e1503e9e
+Filename: ./debs/instalauncher2_1.11.0.deb
+Size: 205204
+MD5sum: 2158b52a8f97f368bcf4b3988793e225
+SHA1: caae71e211bf5c61c76168cb94e141ba44f2a4ec
+SHA256: 4415baaacb394dbe0eb994df3f006e080565c0221c824efae78183c555ee7785
 Section: Tweaks
 Description: Launch ANY app instantly
 Author: Jonathan Winger Lang <jontelang@gmail.com>
@@ -4747,13 +4763,13 @@ Version: 1.11.0
 Architecture: iphoneos-arm64
 Maintainer: Jonathan Winger Lang <jontelang@gmail.com>
 Installed-Size: 1188
-Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Depends: mobilesubstrate, preferenceloader, firmware(>=15.0)
 Conflicts: com.jontelang.instalauncher2.beta
-Filename: ./debs/instalauncher2_1.11.0.deb
-Size: 205204
-MD5sum: 2158b52a8f97f368bcf4b3988793e225
-SHA1: caae71e211bf5c61c76168cb94e141ba44f2a4ec
-SHA256: 4415baaacb394dbe0eb994df3f006e080565c0221c824efae78183c555ee7785
+Filename: ./debs/InstaLauncher 2_1.11.0无根.deb
+Size: 203906
+MD5sum: f881738665a556d86eceb0b2f1e39603
+SHA1: 2eab5ef9c913190a3f6ba1c6220619e526e8c5cc
+SHA256: 0c7c6545061871c7e58820d4e67b0dc9c91dc010f54a2101295d02b4e1503e9e
 Section: Tweaks
 Description: Launch ANY app instantly
 Author: Jonathan Winger Lang <jontelang@gmail.com>
@@ -5469,24 +5485,6 @@ Name: 滴滴出行
 
 Package: com.opa334.altlist
 Version: 1.0.10
-Architecture: iphoneos-arm64
-Maintainer: opa334
-Installed-Size: 340
-Depends: firmware (>=7.0)
-Filename: ./debs/com.opa334.altlist_1.0.10_iphoneos-arm64.deb
-Size: 27752
-MD5sum: d56fbc22b9ed3f663fef1e48293efc1b
-SHA1: 86a27b2fab4266e4394494310e33a1177c02bb47
-SHA256: 83cb344b44fccb9187fc4bf75fa023df83ba1c24a768f4baf84c1d09daa6c9fe
-Section: System
-Description: A modern AppList alternative
-Tag: role::developer
-Author: opa334
-Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=altlistDp
-Name: AltList
-
-Package: com.opa334.altlist
-Version: 1.0.10
 Architecture: iphoneos-arm
 Maintainer: opa334
 Installed-Size: 388
@@ -5496,6 +5494,24 @@ Size: 46768
 MD5sum: 1667c6554431e6b6e5ef6af26bc70123
 SHA1: 414c8470bed7b498d60cf5ebb7228baacad2317f
 SHA256: d621b52c6180ada141b31cdc4389faed1ee8059c0961395a512779ee5f8d9f02
+Section: System
+Description: A modern AppList alternative
+Tag: role::developer
+Author: opa334
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=altlistDp
+Name: AltList
+
+Package: com.opa334.altlist
+Version: 1.0.10
+Architecture: iphoneos-arm64
+Maintainer: opa334
+Installed-Size: 340
+Depends: firmware (>=7.0)
+Filename: ./debs/com.opa334.altlist_1.0.10_iphoneos-arm64.deb
+Size: 27752
+MD5sum: d56fbc22b9ed3f663fef1e48293efc1b
+SHA1: 86a27b2fab4266e4394494310e33a1177c02bb47
+SHA256: 83cb344b44fccb9187fc4bf75fa023df83ba1c24a768f4baf84c1d09daa6c9fe
 Section: System
 Description: A modern AppList alternative
 Tag: role::developer
@@ -5523,26 +5539,6 @@ Name: CCCleaner
 
 Package: com.opa334.ccsupport
 Version: 1.3.10-2
-Architecture: iphoneos-arm
-Maintainer: opa334
-Installed-Size: 460
-Depends: mobilesubstrate, firmware (>=11.0)
-Conflicts: com.ioscreatix.silo
-Replaces: com.ioscreatix.silo
-Provides: com.ioscreatix.silo
-Filename: ./debs/com.opa334.ccsupport_1.3.10-2_iphoneos-arm.deb
-Size: 59458
-MD5sum: d282fb43c3fc5b11092b3c975e55795d
-SHA1: 6e4d64bb3a8ce2a50ae78f865ec276ec9e70155e
-SHA256: 81e2eaa9d5c7811b7877333196300f68186816f56722f33e60a29244056d46c1
-Section: Tweaks
-Description: Support tweak for CC modules!
-Author: opa334
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccsupportDp
-Name: CCSupport
-
-Package: com.opa334.ccsupport
-Version: 1.3.10-2
 Architecture: iphoneos-arm64
 Maintainer: opa334
 Installed-Size: 528
@@ -5555,6 +5551,26 @@ Size: 55666
 MD5sum: 23732eaa7371484cc241baf9bf20c858
 SHA1: 7a666035709a9f4668a95b783b3bca25a6e7aab1
 SHA256: ba9d53511fcde08c4edb3bd4a52a5beb4c76c2144224f18b4ab1e771f506cd25
+Section: Tweaks
+Description: Support tweak for CC modules!
+Author: opa334
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccsupportDp
+Name: CCSupport
+
+Package: com.opa334.ccsupport
+Version: 1.3.10-2
+Architecture: iphoneos-arm
+Maintainer: opa334
+Installed-Size: 460
+Depends: mobilesubstrate, firmware (>=11.0)
+Conflicts: com.ioscreatix.silo
+Replaces: com.ioscreatix.silo
+Provides: com.ioscreatix.silo
+Filename: ./debs/com.opa334.ccsupport_1.3.10-2_iphoneos-arm.deb
+Size: 59458
+MD5sum: d282fb43c3fc5b11092b3c975e55795d
+SHA1: 6e4d64bb3a8ce2a50ae78f865ec276ec9e70155e
+SHA256: 81e2eaa9d5c7811b7877333196300f68186816f56722f33e60a29244056d46c1
 Section: Tweaks
 Description: Support tweak for CC modules!
 Author: opa334
@@ -5857,22 +5873,6 @@ Name: Safari Plus (Cepheiless)
 
 Package: com.opa334.timebomb
 Version: 1.1-2
-Architecture: iphoneos-arm
-Maintainer: opa334
-Installed-Size: 136
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.opa334.timebomb_1.1-2_iphoneos-arm.deb
-Size: 3184
-MD5sum: 403436d75a47fc6a00d8ce1cdd17844c
-SHA1: ffd17119de7528854beaef7e8654217474b38dcd
-SHA256: 773f4c2914f8e4fe6a90a3bb1c134ac2404436d307467cd9036da0188f0994e4
-Section: Tweaks
-Description: Spinlock timeout with ease!
-Author: opa334
-Name: TimeBomb
-
-Package: com.opa334.timebomb
-Version: 1.1-2
 Architecture: iphoneos-arm64
 Maintainer: opa334
 Installed-Size: 136
@@ -5882,6 +5882,22 @@ Size: 3236
 MD5sum: acdd35bf010fc93629a84c403aa49827
 SHA1: 5cf8693094f866be03b1feb00c3ce348540595d6
 SHA256: 40df8f89b6c5011bee79b0575a9523e7b615c82b955c202c7f6e1977d24efb84
+Section: Tweaks
+Description: Spinlock timeout with ease!
+Author: opa334
+Name: TimeBomb
+
+Package: com.opa334.timebomb
+Version: 1.1-2
+Architecture: iphoneos-arm
+Maintainer: opa334
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.opa334.timebomb_1.1-2_iphoneos-arm.deb
+Size: 3184
+MD5sum: 403436d75a47fc6a00d8ce1cdd17844c
+SHA1: ffd17119de7528854beaef7e8654217474b38dcd
+SHA256: 773f4c2914f8e4fe6a90a3bb1c134ac2404436d307467cd9036da0188f0994e4
 Section: Tweaks
 Description: Spinlock timeout with ease!
 Author: opa334
@@ -7274,11 +7290,11 @@ Architecture: iphoneos-arm64
 Maintainer: x✨
 Installed-Size: 340
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/高德地图优化.1.0.3.deb
-Size: 101168
-MD5sum: 64ccb83d37195ae73716cc48b0d29c4d
-SHA1: 9739384fd4557170133bf2a4d50996640a09b446
-SHA256: 5e81801f98eb591ef4f67e49cc338e0789becd1731ac7126aacfc7451f4fc391
+Filename: ./debs/com.xx.gaodehook_1.0.3_iphoneos-arm64.deb
+Size: 100948
+MD5sum: 5bd0f4cbbd6a8cdee7e4553bd38b3744
+SHA1: adba2d785bb0ddd0f66d5ae82501bf8a65666460
+SHA256: d554d7d27dfbd008ef16c7ea7723332db53ea2574fe6ee1900ca9b882aa8857b
 Section: Tweaks
 Description: 自用 功能默认开启 | 去除启动广告 首页一些无用的悬浮 移除底部消息-打车 | 移除扫一扫按钮 | 如果需要某功能 可以长按底栏1秒出菜单自行关闭 || 1.0.3更新内容：对我的页面一些板块进行移除(功能并不是默认开 自行开启)
 Author: x✨
@@ -7290,11 +7306,11 @@ Architecture: iphoneos-arm64
 Maintainer: x✨
 Installed-Size: 340
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.xx.gaodehook_1.0.3_iphoneos-arm64.deb
-Size: 100948
-MD5sum: 5bd0f4cbbd6a8cdee7e4553bd38b3744
-SHA1: adba2d785bb0ddd0f66d5ae82501bf8a65666460
-SHA256: d554d7d27dfbd008ef16c7ea7723332db53ea2574fe6ee1900ca9b882aa8857b
+Filename: ./debs/高德地图优化.1.0.3.deb
+Size: 101168
+MD5sum: 64ccb83d37195ae73716cc48b0d29c4d
+SHA1: 9739384fd4557170133bf2a4d50996640a09b446
+SHA256: 5e81801f98eb591ef4f67e49cc338e0789becd1731ac7126aacfc7451f4fc391
 Section: Tweaks
 Description: 自用 功能默认开启 | 去除启动广告 首页一些无用的悬浮 移除底部消息-打车 | 移除扫一扫按钮 | 如果需要某功能 可以长按底栏1秒出菜单自行关闭 || 1.0.3更新内容：对我的页面一些板块进行移除(功能并不是默认开 自行开启)
 Author: x✨
@@ -8987,7 +9003,7 @@ Installed-Size: 1117
 Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader
 Conflicts: com.creaturecoding.shuffle
 Replaces: com.twickd.nightwind.onesettings
-Filename: ./debs/onesettings_2.1.1_汉化版@M哥.deb
+Filename: ./debs/onesettings_2.1.1_iphoneos-arm64.deb
 Size: 220252
 MD5sum: 88cb0614b739d011ffc0c53bfdc3addc
 SHA1: ac40b8b5584c5dc37d2a506df25490bed52d73fa
@@ -9006,7 +9022,7 @@ Installed-Size: 1117
 Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader
 Conflicts: com.creaturecoding.shuffle
 Replaces: com.twickd.nightwind.onesettings
-Filename: ./debs/onesettings_2.1.1_iphoneos-arm64.deb
+Filename: ./debs/onesettings_2.1.1_汉化版@M哥.deb
 Size: 220252
 MD5sum: 88cb0614b739d011ffc0c53bfdc3addc
 SHA1: ac40b8b5584c5dc37d2a506df25490bed52d73fa
