@@ -1123,6 +1123,38 @@ Tag: purpose::daemon, role::enduser
 Author: saurik, Cannathea <csupport@cannathea.com>
 Name: AFC2(rootless)
 
+Package: com.Axs.touchvis
+Version: 1.1.3
+Architecture: iphoneos-arm64
+Maintainer: Axs <TG@wxfx8>
+Installed-Size: 504
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.Axs.touchvis_1.1.3_iphoneos-arm64.deb
+Size: 67112
+MD5sum: 50b19fdbb67495b5840bd1783b66ad0a
+SHA1: 602d44951844701e6209fa841d9d3525925af9cd
+SHA256: a0e7eeeaae22a2c64303b70a3e638aa7d3d53fa3ef9b24f26ff211b93ad2be62
+Section: 录屏轨迹
+Description: 最好用的触摸交互。主要作用:做教程时候让别人知道你点的哪里。
+Author: Axs
+Name: 录屏轨迹
+
+Package: com.Axs.touchvis
+Version: 1.1.4
+Architecture: iphoneos-arm64
+Maintainer: Axs <TG@wxfx8>
+Installed-Size: 504
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.Axs.touchvis_1.1.4_iphoneos-arm64.deb
+Size: 68612
+MD5sum: 0b60ebdcee1862f940fb55b1bc6568c2
+SHA1: f7f637c9139e159c25913c9f23d0b92a8a2dc92f
+SHA256: dee2ee637fd91cbc24afac4b42abe3a437ce4139334d0befa338f92194c3b821
+Section: 录屏轨迹
+Description: 最好用的触摸交互。主要作用:做教程时候让别人知道你点的哪里。
+Author: Axs
+Name: 录屏轨迹
+
 Package: com.HBWechatHelper.ailun
 Version: 1.7.1
 Architecture: iphoneos-arm64
@@ -7033,6 +7065,23 @@ Size: 1924680
 MD5sum: 8cb3202466759d6b16122bfaad1b2b9c
 SHA1: c711be8004ebcf962ed6e49ed547bd72ecd7b62f
 SHA256: 5ee47b80dd06abb377a8307a4c0ace933538d1226fcdb7a6a89f7af995439b27
+Section: Tweaks
+Description: 成功让人妖嘉嘉取消了入群费21.88元
+Author: 人妖嘉嘉
+Name: 抖音大气层-永久版
+Sileodepiction: https://axs6.github.io/repo/sileodepiction/dyhook/js.json
+
+Package: com.xhg.dyhook
+Version: 8.8.9
+Architecture: iphoneos-arm64
+Maintainer: 人妖嘉嘉
+Installed-Size: 5280
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/抖音大气层_8.8.9_无根.deb
+Size: 1895628
+MD5sum: 99efe287157ef002a291972e43be0e85
+SHA1: b385f1ec8f510df305351aa6b810c136a18a3115
+SHA256: 3b6c3cb0308dffac5ef8426a4b1cc8f84385f138242ce8b783f93d245e88a7c6
 Section: Tweaks
 Description: 成功让人妖嘉嘉取消了入群费21.88元
 Author: 人妖嘉嘉
