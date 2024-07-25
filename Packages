@@ -1123,22 +1123,6 @@ Tag: purpose::daemon, role::enduser
 Author: saurik, Cannathea <csupport@cannathea.com>
 Name: AFC2(rootless)
 
-Package: com.Axs.iostouch
-Version: 1.2
-Architecture: iphoneos-arm64
-Maintainer: Axs
-Installed-Size: 504
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Filename: ./debs/com.Axs.iostouch_1.2_iphoneos-arm64.deb
-Size: 67100
-MD5sum: d290e7216a5e2125d5b8928eaeb6fe27
-SHA1: 480dca32b864a99c219e29e1ccc9ebfb2090b503
-SHA256: 5733a992489f174c5afaf00d0f2296d30035a993e35f6ed5369052a0a466150d
-Section: 录屏轨迹
-Description: 显示您的触摸交互！
-Author: Axs
-Name: 录屏轨迹
-
 Package: com.HBWechatHelper.ailun
 Version: 1.7.1
 Architecture: iphoneos-arm64
