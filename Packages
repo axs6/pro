@@ -6037,6 +6037,40 @@ Author: P2KDev <p2kdev@gmail.com>
 Icon: file:///Library/PreferenceBundles/TingePrefs.bundle/Icon@2x.png
 Name: Tinge
 
+Package: com.p2kdev.tinge
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 440
+Depends: firmware (>= 15.0),mobilesubstrate,preferenceloader,org.thebigboss.libcolorpicker
+Filename: ./debs/com.p2kdev.tinge_1.2_iphoneos-arm64.deb
+Size: 39400
+MD5sum: b509c8654a279672b905fd0cf2e1a79b
+SHA1: 2ddc014117f62c94bda57d36689680eebac93bf5
+SHA256: e6809e6c03fc9f01d942533a7a4da7bdaf8601275ce5307f443210b42654a02e
+Section: Tweaks
+Description: Color your badges with Perfection!
+Author: P2KDev <p2kdev@gmail.com>
+Icon: file:///Library/PreferenceBundles/TingePrefs.bundle/Icon@2x.png
+Name: Tinge
+
+Package: com.p2kdev.tinge
+Version: 1.2.1
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 440
+Depends: firmware (>= 15.0),mobilesubstrate,preferenceloader,org.thebigboss.libcolorpicker
+Filename: ./debs/com.p2kdev.tinge_1.2.1_iphoneos-arm64.deb
+Size: 39470
+MD5sum: 3f023d091d956c59ae0fe66e349100d3
+SHA1: 940f558dcf13e214afde1be7ae7b2d5c98cef631
+SHA256: 6894b5083550b85cdff6c36cd1b3d9e941f0c4ad7129c474f8864902dc0377d2
+Section: Tweaks
+Description: Color your badges with Perfection!
+Author: P2KDev <p2kdev@gmail.com>
+Icon: file:///Library/PreferenceBundles/TingePrefs.bundle/Icon@2x.png
+Name: Tinge
+
 Package: com.pinduoduo
 Version: 1.1
 Architecture: iphoneos-arm64
