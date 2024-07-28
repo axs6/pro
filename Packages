@@ -1139,6 +1139,23 @@ Tag: purpose::daemon, role::enduser
 Author: saurik, Cannathea <csupport@cannathea.com>
 Name: AFC2(rootless)
 
+Package: com.Axs.net.dleasy
+Version: 2.14.5k
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.Axs.net.dleasy_2.14.5k_iphoneos-arm64.deb
+Size: 5534076
+MD5sum: 0f7c6496cd623ec646b42db333a7e201
+SHA1: c8752b9892955fc0bb2f5f322008424ca89ea9a6
+SHA256: b5c5d0ba5851ee4fe3c5fe6ac1803f243f8c7725f7d2b659800fe92637010ce2
+Section: Tweaks
+Description: Download social media pictures and videos.本插件可以下载各大视频软件里的视频，但是能不能有效，自己尝试，不要屏蔽插件注入APP！由Axs破解
+Author: AhmedBafkir
+Name: DLEasy
+Sileodepiction: https://axs6.github.io/repo/sileodepiction/dleasy/js.json
+Sponsor: Axs
+
 Package: com.Axs.touchvis
 Version: 1.1.3
 Architecture: iphoneos-arm64
