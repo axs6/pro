@@ -1438,24 +1438,6 @@ Depiction: http://brendonjkding.github.io/depictions/web/?p=com.brend0n.qqmusicd
 Name: DesktopLyrics
 Sileodepiction: http://brendonjkding.github.io/depictions/web/com.brend0n.qqmusicdesktoplyrics/depiction.json
 
-Package: com.brend0n.qqmusicdesktoplyrics
-Version: 0.3.9~b1
-Architecture: iphoneos-arm64
-Maintainer: Brend0n <brendonjkding@126.com>
-Installed-Size: 2748
-Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.2) | firmware (>= 15.0), preferenceloader
-Filename: ./debs/左滑返回-Rootless.1.0-6.deb
-Size: 44296
-MD5sum: dda0b55c4b7c9adb28a3f6feb38d6838
-SHA1: 309c0bdf815d5630f14f1893b0500a0e97f56d1c
-SHA256: a3d8c92b00edb06a435215e9ef37924d8ac26c0a7e393ae8f1e8ef0f889b61d6
-Section: Tweaks
-Description: Show lyrics anywhere
-Author: Brend0n <brendonjkding@126.com>
-Depiction: http://brendonjkding.github.io/depictions/web/?p=com.brend0n.qqmusicdesktoplyrics
-Name: DesktopLyrics
-Sileodepiction: http://brendonjkding.github.io/depictions/web/com.brend0n.qqmusicdesktoplyrics/depiction.json
-
 Package: com.chinamobile
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -1659,6 +1641,25 @@ Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、�
 Author: Curtin
 Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
 Name: PKC_无根
+
+Package: com.curtin.pkc.rootless
+Version: 0.5-5
+Architecture: iphoneos-arm64
+Maintainer: Curtin <curtinlv@126.com>
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.curtin.pkc.rootless_0.5-5_iphoneos-arm64.deb
+Size: 519760
+MD5sum: 12a9190b26de65ab09eb9995fcb86895
+SHA1: f832820b54d631918b1e847bdd63364778ab9b5a
+SHA256: 56075b95b770b6f351849a8690fd3f2df34e30c2392acbf34367b8ae7d3ed30b
+Section: PKC-插件
+Priority: optional
+Homepage: https://github.com/curtinlv
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、自动通过好友请求、自动互删好友等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
+Author: Curtin <curtinlv@126.com>
+Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
+Name: PKC_无根
+Sponsor: Curtin <https://qr.alipay.com/2m612122dnnr9q6o488dgab>
 
 Package: com.cydia.love.iapstorefugu-rootless
 Version: 0.0.2
