@@ -425,24 +425,6 @@ Icon: https://chinesebuilding.club/pic/cydia.png
 Name: CCBorder控制中心发光-Rootless
 Sponsor: 搬运工
 
-Package: byg.iosios.net.desktoplyrics
-Version: 0.3.9~b1
-Architecture: iphoneos-arm64
-Maintainer: 搬运工
-Installed-Size: 2748
-Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.1.0) | firmware (>= 15.0), preferenceloader
-Filename: ./debs/byg.iosios.net.desktoplyrics_0.3.deb
-Size: 623492
-MD5sum: 522f37c4036f3615d275f3321e0dfbeb
-SHA1: cc3b9b80863f20b8df455e22261dffdb6f5e5434
-SHA256: 5f80e8ff9ea7e3fd175bb3f240a39ed7dce9b63e72a9cc170e7eb2fc6b334dec
-Section: 杂七杂八
-Description: Show lyrics anywhere桌面歌词，任意位置显示，支持QQ、网易云、酷狗、酷我、咪咕，可能支持Spotify，放心玩吧！
-Author: Brend0n
-Icon: https://chinesebuilding.club/pic/cydia.png
-Name: DesktopLyrics桌面歌词-Rootless
-Sponsor: 搬运工
-
 Package: byg.iosios.net.hideserialnumber
 Version: 0.0.3
 Architecture: iphoneos-arm64
