@@ -1371,6 +1371,23 @@ Description: 自动面容ID解锁，解锁后直接进入主屏幕、隐藏解�
 Author: M哥
 Name: 自动面容ID解锁-rootless
 
+Package: com.axs.net.dleasy
+Version: 2.14.5k
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.axs.net.dleasy_2.14.5k_iphoneos-arm64.deb
+Size: 5534112
+MD5sum: 8a9e464786930e87b6e39b4ea701b456
+SHA1: 37af8d1d4382ccd2d7baf4a1de668b468af6194b
+SHA256: f96e8d3106b8186a153247b24700989985312ec444d1d9b3e8c27bbb6b5e1074
+Section: 软件破解
+Description: Download social media pictures and videos.本插件可以下载各大视频软件里的视频，但是能不能有效，自己尝试，不要屏蔽插件注入APP！下载支持的软件列表如截图介绍所示！
+Author: AhmedBafkir
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: DLEasy视频下载器-Rootless
+Sponsor: Axs
+
 Package: com.ball.ultrasound.cn.rl
 Version: 1.2.12
 Architecture: iphoneos-arm64
