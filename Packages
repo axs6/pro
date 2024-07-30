@@ -1141,6 +1141,60 @@ Tag: purpose::daemon, role::enduser
 Author: saurik, Cannathea <csupport@cannathea.com>
 Name: AFC2(rootless)
 
+Package: com.Axs.net.Axon
+Version: 2.1.3
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 712
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.Axs.net.Axon_2.1.3_iphoneos-arm64.deb
+Size: 144244
+MD5sum: 5a2bb6e236d115e19c64d909eec81ed0
+SHA1: bb122b22cfeb11362b7a52f4b3bdb166dcb85882
+SHA256: 10c5c024677912cfab46d92b188fe0de0097e15674db5e8c411cf897a046376e
+Section: Tweaks
+Description: 本插件非常的好用！推荐！
+Author: Axs
+Name: Axon美化通知
+Sileodepiction: https://axs6.github.io/repo/sileodepiction/axon/js.json
+Sponsor: Axs
+
+Package: com.Axs.net.aria
+Version: 0.9.8.1
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 680
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.Axs.net.aria_0.9.8.1.deb
+Size: 93604
+MD5sum: 154a01c3d7e88fbacd25c1a73a7f535b
+SHA1: 3f38a59cda6448343fd97dd53a197753e1396d48
+SHA256: cd73099222e657631a5f427ef9cb996796f660b7986a9801dcfd1e7fb20aaa04
+Section: Tweaks
+Description: Enhance the stock CC or Prysm on the fly(修改控制中心背景图，用第二个Stock就行了)
+Author: Luki
+Name: Aria控制中心背景图
+Sileodepiction: https://axs6.github.io/repo/sileodepiction/aria/js.json
+Sponsor: Axs
+
+Package: com.Axs.net.ccborder
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 404
+Depends: mobilesubstrate, firmware (>= 14.0), ws.hbang.alderis
+Conflicts: com.fiore.ccborder, alias20.coolcc, com.dao.coolcc, com.hk.coolcc, com.4nni3.coolcc
+Filename: ./debs/com.Axs.net.ccborder_1.1.1_iphoneos-arm64.deb
+Size: 28332
+MD5sum: 54e45f1d2f61b4828f92f964b4bc752d
+SHA1: afa866d9c81b05ca82de06ffc072e70324621cdd
+SHA256: cc80254a7e5fc105021d656da934f57a4e0c94c191bc9df412127dc55c72a718
+Section: Tweaks
+Description: 像CoolCC一样，删除控制中心模块背景并添加边框，控制中心发光。
+Author: fiore
+Name: CCBorder
+Sponsor: Axs
+
 Package: com.Axs.net.dleasy
 Version: 2.14.5k
 Architecture: iphoneos-arm64
@@ -1156,6 +1210,22 @@ Description: Download social media pictures and videos.本插件可以下载各�
 Author: AhmedBafkir
 Name: DLEasy
 Sileodepiction: https://axs6.github.io/repo/sileodepiction/dleasy/js.json
+Sponsor: Axs
+
+Package: com.Axs.net.hideserialnumber
+Version: 0.0.4
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Depends: firmware (>= 12.2), mobilesubstrate, preferenceloader
+Filename: ./debs/com.Axs.net.hideserialnumber_0.0.4_iphoneos-arm64.deb
+Size: 58620
+MD5sum: 720a074f0646daff6135e53b9ca2ea93
+SHA1: bf4f84974fa3249921b3782fe15f01ceb0869d2e
+SHA256: 6405ea57ff06c78bd8279ee36a612b3dadeee444b09ac5f9a874bda37acaa58c
+Section: Tweaks
+Description: Hide Serial Number in Settings About page.在“设置关于”页面中隐藏/伪装序列号等相关信息。
+Author: ichitaso
+Name: HideSerialNumber
 Sponsor: Axs
 
 Package: com.Axs.touchvis
@@ -3225,6 +3295,22 @@ Size: 519052
 MD5sum: d0275b54c9a62712199670d15f134ab7
 SHA1: 706c59db80940855593d9d4dff34d65953f1e027
 SHA256: 4d79c4d82abd5e309cc23648c08281d9f06553fd1dcab8f3562846f33fcccca1
+Section: Tweaks
+Description: A tweak to get Spotify Premium for free, just like Spotilife
+Author: Eevee
+Name: EeveeSpotify
+
+Package: com.eevee.spotify
+Version: 4.6
+Architecture: iphoneos-arm64
+Maintainer: Eevee
+Installed-Size: 2568
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf
+Filename: ./debs/com.eevee.spotify_4.6_iphoneos-arm64.deb
+Size: 518648
+MD5sum: 1f41b81858360e535f717ad18ed75e98
+SHA1: ae4c633ee9fa5f2f6f68f5d9d7d90087f856b4b7
+SHA256: 9734e7c3a78e9e312a10094744e0b2da93762189a6c07a9046ec8e734b8173a8
 Section: Tweaks
 Description: A tweak to get Spotify Premium for free, just like Spotilife
 Author: Eevee
@@ -7030,25 +7116,6 @@ Author: udevs
 Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
 Name: DockX
 Sileodepiction: https://lclrc.github.io/repo/depictions/native/com.udevs.dockx/depiction.json
-
-Package: com.udevs.dockx
-Version: 2.6.1
-Architecture: iphoneos-arm
-Maintainer: udevs
-Installed-Size: 2068
-Depends: mobilesubstrate, preferenceloader, firmware(>=14.0)
-Conflicts: com.restiveconch.actionbar
-Filename: ./debs/com.udevs.dockx_2.6.1_iphoneos-arm.deb
-Size: 424328
-MD5sum: fd0d13b07b87463c366048df2128542d
-SHA1: b67a986fb75c8b09d8d0e1d30aa47f72f41d13f3
-SHA256: 76743761847f038f25678f05d1489d13f769e77e1fda1da63a7f7d4786ae1163
-Section: Tweaks
-Description: Pasteboard shortcuts on your keyboard dock!
-Author: udevs
-Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
-Name: DockX
-Sileodepiction: https://axs6.github.io/repo/sileodepiction/dockx/js.json
 
 Package: com.velocarpooling
 Version: 1.0
