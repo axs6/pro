@@ -5038,6 +5038,22 @@ Author: 佚名
 Name: 头条NoAds(rootless)
 Sponsor: 佚名
 
+Package: com.ketty.tweaktool
+Version: 0.0.1-252+debug
+Architecture: iphoneos-arm64
+Maintainer: Ketty Allen
+Installed-Size: 452
+Depends: firmware (>= 14.0)
+Filename: ./debs/com.ketty.tweaktool_0.0.1-252+debug_iphoneos-arm64.deb
+Size: 408976
+MD5sum: dea1ded922fe1723c524d2e9857d202c
+SHA1: 784f2757b9cc751b4636b271e5c3884b37413f79
+SHA256: 16e9ae731b19306eb050e994dc346b33c05c3daa4f26764b5510a1854387ceb7
+Section: Utilities
+Description: An awesome SwiftUI application!
+Author: Ketty Allen
+Name: TweakTool
+
 Package: com.kingpuffdaddi.control-center.ccvpn
 Version: 1.0.6
 Architecture: iphoneos-arm64
