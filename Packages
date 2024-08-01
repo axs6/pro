@@ -6350,6 +6350,21 @@ Version: 2.1-9
 Architecture: iphoneos-arm64
 Maintainer: 平凡
 Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/虚拟视频_2.2-0无根.deb
+Size: 2824590
+MD5sum: 6af71fedded048be7855bd32a8dd91f5
+SHA1: 62807ae422012e42b5b2549d4f4a1a82bba74802
+SHA256: cebda898044c8932ebf36dbca148e8898ec4b973440708e6d55e30a6f5980b0b
+Section: Tweaks
+Description: 抢红包,推送小助手,伪装计算器,备注用户头像,虚拟视频，全局长按导航栏快捷功能,等;修复转账金额移动复原，添加文字修改,语音包,一键已读,新增多端登录设备隐藏等。
+Author: 平凡
+Name: 虚拟视频
+
+Package: com.pingfan.wechat
+Version: 2.1-9
+Architecture: iphoneos-arm64
+Maintainer: 平凡
+Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/虚拟视频2.1-9无根.deb
 Size: 2825826
 MD5sum: beca1aa91f03f4179910333afc04cab8
