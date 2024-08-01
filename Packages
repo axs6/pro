@@ -1280,6 +1280,23 @@ Description: 最好用的触摸交互。主要作用:做教程时候让别人知
 Author: Axs
 Name: 录屏轨迹
 
+Package: com.Axs.touchvis
+Version: 2.5k
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.axs.touchvis_2.5k_iphoneos-arm64.deb.deb
+Size: 230220
+MD5sum: 705c024789ac39727d788911f5a0b59f
+SHA1: a1c1bd6876a909b1925de1bcd9305562c3013e09
+SHA256: d2ec5e6d46764d56da4285b0a943baba875f9ae80be9669158ab70f9da791332
+Section: 录屏轨迹
+Description: Displays your touch interactions!显示触摸屏幕的轨迹，有点好玩的插件，并附带拖尾效果。主要作用:做教程时候让别人知道你点的哪里。
+Author: 82flex
+Name: 录屏轨迹
+Sileodepiction: https://axs6.github.io/repo/sileodepiction/touchvis/js.json
+Sponsor: Axs
+
 Package: com.HBWechatHelper.ailun
 Version: 1.7.1
 Architecture: iphoneos-arm64
