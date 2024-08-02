@@ -1315,6 +1315,23 @@ Name: 录屏轨迹
 Sileodepiction: https://axs6.github.io/repo/sileodepiction/touchvis/js.json
 Sponsor: Axs
 
+Package: com.Axs.touchvis
+Version: 2.8
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.Axs.touchvis_2.8_iphoneos-arm64.deb
+Size: 708560
+MD5sum: a4d0c616d718fec00bc3bb0d56e5c53d
+SHA1: 264f4d3d8f8c08000b944eef7e522a8ab0f4c825
+SHA256: 9e9bfb2266c9c082e524d39bf582b0d05cecba15b33b5a11e1662fcf89404a24
+Section: 录屏轨迹
+Description: Displays your touch interactions! 显示触摸屏幕的轨迹；很酷炫，很丝滑的一个插件，并附带拖尾效果。主要作用:做教程时候让别人知道你点的哪里。
+Author: Lessica
+Icon: https://axs6.github.io/repo/sileodepiction/touchvis/icon.png
+Name: 录屏轨迹Touch-Viz
+Sileodepiction: https://axs6.github.io/repo/sileodepiction/touchvis/js.json
+
 Package: com.HBWechatHelper.ailun
 Version: 1.7.1
 Architecture: iphoneos-arm64
@@ -5426,6 +5443,22 @@ Section: Tweaks
 Description: A modern crash reporter for iOS
 Author: Muirey03
 Name: Cr4shed
+
+Package: com.nahtedetihw.airpodscompanion
+Version: 1.4
+Architecture: iphoneos-arm64
+Maintainer: Ethan Whited
+Installed-Size: 10668
+Depends: preferenceloader
+Filename: ./debs/com.nahtedetihw.airpodscompanion_1.4_iphoneos-arm64.deb
+Size: 10353096
+MD5sum: eede33623df6e07f3c3976d5c9a42404
+SHA1: 0874c25b17da566d445704ce1669ac136a7fef0e
+SHA256: c44cf0f14e4abd1937bf35846e50f71268fd76306ce3e39d9e9221e492febbff
+Section: Tweaks
+Description: Floating Noise Cancellation control next to volume slider
+Author: Ethan Whited
+Name: AirpodsCompanion
 
 Package: com.nahtedetihw.floatingdockxvi
 Version: 1.9
