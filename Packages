@@ -1372,6 +1372,24 @@ Icon: https://axs6.github.io/repo/sileodepiction/touchvis/icon.png
 Name: 录屏轨迹Touch-Viz
 Sileodepiction: https://axs6.github.io/repo/sileodepiction/touchvis/js.json
 
+Package: com.Axs.wcplugins.rootless
+Version: 0.1-3
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.axs.wcplugins.rootless_0.1-3_iphoneos-arm64.deb
+Size: 19720
+MD5sum: c1a7ad1e107063d93f10c1317a395396
+SHA1: 7dfb84849f411c484f4da7d453b6b758ed656c8d
+SHA256: bec9a719c4409e15d4b3f5d4eba46937364aded3e6a81adc7ce9c5b1562fb644
+Section: 微信插件
+Priority: optional
+Description: 将微信插件全部收纳在一起方法操作，更美观。
+Author: Mao
+Name: 微信插件管理
+Sileodepiction: https://axs6.github.io/repo/sileodepiction/js.json
+Sponsor: Axs
+
 Package: com.HBWechatHelper.ailun
 Version: 1.7.1
 Architecture: iphoneos-arm64
